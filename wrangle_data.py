@@ -10,13 +10,15 @@ BASE_FILENAMES = ['seven_major_felony_offenses_by_precinct_2000_2014.xls',
     'misdemeanor_offenses_by_precinct_2000_2014.xls',
     'violation_offenses_by_precinct_2000_2014.xls']
 
+makedirs(WRANGLED_DATA_DIR, exist_ok = True)
+
+
+OUTPUT_FIELDNAMES = ['precinct', 'year', 'category', 'incident_count']
+
 # All 4 of these spreadsheets have Row 3, i.e. row 2 in a 0-based index:
 HEADERS_ROW_NUMBER = 2
 PRECINCT_COL_NUMBER = 0
 CATEGORIES_COL_NUMBER = 1
-OUTPUT_FIELDNAMES = ['precinct', 'year', 'category', 'incident_count']
-
-makedirs(WRANGLED_DATA_DIR, exist_ok = True)
 
 
 for fname in BASE_FILENAMES:
