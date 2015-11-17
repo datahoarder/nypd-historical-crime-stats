@@ -1,1156 +1,2341 @@
 precinct,year,category,incident_count
-1,2000,HARASSMENT 2                          ,971
-1,2001,HARASSMENT 2                          ,859
-1,2002,HARASSMENT 2                          ,806
-1,2003,HARASSMENT 2                          ,760
-1,2004,HARASSMENT 2                          ,705
-1,2005,HARASSMENT 2                          ,597
-1,2006,HARASSMENT 2                          ,564
-1,2007,HARASSMENT 2                          ,601
-1,2008,HARASSMENT 2                          ,507
-1,2009,HARASSMENT 2                          ,404
-1,2010,HARASSMENT 2                          ,405
-1,2011,HARASSMENT 2                          ,398
-1,2012,HARASSMENT 2                          ,451
-1,2013,HARASSMENT 2                          ,451
-1,2014,HARASSMENT 2                          ,474
-5,2000,HARASSMENT 2                          ,524
-5,2001,HARASSMENT 2                          ,533
-5,2002,HARASSMENT 2                          ,506
-5,2003,HARASSMENT 2                          ,481
-5,2004,HARASSMENT 2                          ,383
-5,2005,HARASSMENT 2                          ,456
-5,2006,HARASSMENT 2                          ,377
-5,2007,HARASSMENT 2                          ,407
-5,2008,HARASSMENT 2                          ,366
-5,2009,HARASSMENT 2                          ,398
-5,2010,HARASSMENT 2                          ,399
-5,2011,HARASSMENT 2                          ,368
-5,2012,HARASSMENT 2                          ,430
-5,2013,HARASSMENT 2                          ,343
-5,2014,HARASSMENT 2                          ,376
-6,2000,HARASSMENT 2                          ,776
-6,2001,HARASSMENT 2                          ,752
-6,2002,HARASSMENT 2                          ,663
-6,2003,HARASSMENT 2                          ,527
-6,2004,HARASSMENT 2                          ,485
-6,2005,HARASSMENT 2                          ,433
-6,2006,HARASSMENT 2                          ,420
-6,2007,HARASSMENT 2                          ,408
-6,2008,HARASSMENT 2                          ,400
-6,2009,HARASSMENT 2                          ,393
-6,2010,HARASSMENT 2                          ,473
-6,2011,HARASSMENT 2                          ,412
-6,2012,HARASSMENT 2                          ,376
-6,2013,HARASSMENT 2                          ,364
-6,2014,HARASSMENT 2                          ,391
-7,2000,HARASSMENT 2                          ,585
-7,2001,HARASSMENT 2                          ,534
-7,2002,HARASSMENT 2                          ,513
-7,2003,HARASSMENT 2                          ,480
-7,2004,HARASSMENT 2                          ,427
-7,2005,HARASSMENT 2                          ,499
-7,2006,HARASSMENT 2                          ,475
-7,2007,HARASSMENT 2                          ,453
-7,2008,HARASSMENT 2                          ,536
-7,2009,HARASSMENT 2                          ,427
-7,2010,HARASSMENT 2                          ,419
-7,2011,HARASSMENT 2                          ,374
-7,2012,HARASSMENT 2                          ,441
-7,2013,HARASSMENT 2                          ,419
-7,2014,HARASSMENT 2                          ,491
-9,2000,HARASSMENT 2                          ,948
-9,2001,HARASSMENT 2                          ,938
-9,2002,HARASSMENT 2                          ,892
-9,2003,HARASSMENT 2                          ,820
-9,2004,HARASSMENT 2                          ,761
-9,2005,HARASSMENT 2                          ,794
-9,2006,HARASSMENT 2                          ,689
-9,2007,HARASSMENT 2                          ,594
-9,2008,HARASSMENT 2                          ,649
-9,2009,HARASSMENT 2                          ,639
-9,2010,HARASSMENT 2                          ,612
-9,2011,HARASSMENT 2                          ,618
-9,2012,HARASSMENT 2                          ,608
-9,2013,HARASSMENT 2                          ,574
-9,2014,HARASSMENT 2                          ,565
-10,2000,HARASSMENT 2                          ,598
-10,2001,HARASSMENT 2                          ,560
-10,2002,HARASSMENT 2                          ,586
-10,2003,HARASSMENT 2                          ,561
-10,2004,HARASSMENT 2                          ,650
-10,2005,HARASSMENT 2                          ,551
-10,2006,HARASSMENT 2                          ,493
-10,2007,HARASSMENT 2                          ,457
-10,2008,HARASSMENT 2                          ,455
-10,2009,HARASSMENT 2                          ,437
-10,2010,HARASSMENT 2                          ,396
-10,2011,HARASSMENT 2                          ,366
-10,2012,HARASSMENT 2                          ,367
-10,2013,HARASSMENT 2                          ,390
-10,2014,HARASSMENT 2                          ,388
-13,2000,HARASSMENT 2                          ,1139
-13,2001,HARASSMENT 2                          ,1013
-13,2002,HARASSMENT 2                          ,1043
-13,2003,HARASSMENT 2                          ,848
-13,2004,HARASSMENT 2                          ,916
-13,2005,HARASSMENT 2                          ,940
-13,2006,HARASSMENT 2                          ,792
-13,2007,HARASSMENT 2                          ,837
-13,2008,HARASSMENT 2                          ,825
-13,2009,HARASSMENT 2                          ,643
-13,2010,HARASSMENT 2                          ,580
-13,2011,HARASSMENT 2                          ,576
-13,2012,HARASSMENT 2                          ,654
-13,2013,HARASSMENT 2                          ,674
-13,2014,HARASSMENT 2                          ,636
-14,2000,HARASSMENT 2                          ,1262
-14,2001,HARASSMENT 2                          ,1204
-14,2002,HARASSMENT 2                          ,972
-14,2003,HARASSMENT 2                          ,773
-14,2004,HARASSMENT 2                          ,757
-14,2005,HARASSMENT 2                          ,789
-14,2006,HARASSMENT 2                          ,765
-14,2007,HARASSMENT 2                          ,691
-14,2008,HARASSMENT 2                          ,650
-14,2009,HARASSMENT 2                          ,553
-14,2010,HARASSMENT 2                          ,531
-14,2011,HARASSMENT 2                          ,526
-14,2012,HARASSMENT 2                          ,584
-14,2013,HARASSMENT 2                          ,514
-14,2014,HARASSMENT 2                          ,606
-17,2000,HARASSMENT 2                          ,747
-17,2001,HARASSMENT 2                          ,681
-17,2002,HARASSMENT 2                          ,637
-17,2003,HARASSMENT 2                          ,508
-17,2004,HARASSMENT 2                          ,470
-17,2005,HARASSMENT 2                          ,385
-17,2006,HARASSMENT 2                          ,374
-17,2007,HARASSMENT 2                          ,348
-17,2008,HARASSMENT 2                          ,323
-17,2009,HARASSMENT 2                          ,265
-17,2010,HARASSMENT 2                          ,298
-17,2011,HARASSMENT 2                          ,240
-17,2012,HARASSMENT 2                          ,259
-17,2013,HARASSMENT 2                          ,239
-17,2014,HARASSMENT 2                          ,303
-18,2000,HARASSMENT 2                          ,1481
-18,2001,HARASSMENT 2                          ,1320
-18,2002,HARASSMENT 2                          ,1111
-18,2003,HARASSMENT 2                          ,960
-18,2004,HARASSMENT 2                          ,900
-18,2005,HARASSMENT 2                          ,762
-18,2006,HARASSMENT 2                          ,735
-18,2007,HARASSMENT 2                          ,809
-18,2008,HARASSMENT 2                          ,788
-18,2009,HARASSMENT 2                          ,692
-18,2010,HARASSMENT 2                          ,727
-18,2011,HARASSMENT 2                          ,637
-18,2012,HARASSMENT 2                          ,751
-18,2013,HARASSMENT 2                          ,875
-18,2014,HARASSMENT 2                          ,935
-19,2000,HARASSMENT 2                          ,1294
-19,2001,HARASSMENT 2                          ,1321
-19,2002,HARASSMENT 2                          ,1039
-19,2003,HARASSMENT 2                          ,1052
-19,2004,HARASSMENT 2                          ,1035
-19,2005,HARASSMENT 2                          ,920
-19,2006,HARASSMENT 2                          ,789
-19,2007,HARASSMENT 2                          ,626
-19,2008,HARASSMENT 2                          ,472
-19,2009,HARASSMENT 2                          ,494
-19,2010,HARASSMENT 2                          ,534
-19,2011,HARASSMENT 2                          ,508
-19,2012,HARASSMENT 2                          ,501
-19,2013,HARASSMENT 2                          ,505
-19,2014,HARASSMENT 2                          ,467
-20,2000,HARASSMENT 2                          ,817
-20,2001,HARASSMENT 2                          ,932
-20,2002,HARASSMENT 2                          ,651
-20,2003,HARASSMENT 2                          ,544
-20,2004,HARASSMENT 2                          ,471
-20,2005,HARASSMENT 2                          ,540
-20,2006,HARASSMENT 2                          ,491
-20,2007,HARASSMENT 2                          ,486
-20,2008,HARASSMENT 2                          ,483
-20,2009,HARASSMENT 2                          ,459
-20,2010,HARASSMENT 2                          ,503
-20,2011,HARASSMENT 2                          ,475
-20,2012,HARASSMENT 2                          ,486
-20,2013,HARASSMENT 2                          ,499
-20,2014,HARASSMENT 2                          ,530
-22,2000,HARASSMENT 2                          ,47
-22,2001,HARASSMENT 2                          ,29
-22,2002,HARASSMENT 2                          ,37
-22,2003,HARASSMENT 2                          ,26
-22,2004,HARASSMENT 2                          ,21
-22,2005,HARASSMENT 2                          ,26
-22,2006,HARASSMENT 2                          ,27
-22,2007,HARASSMENT 2                          ,29
-22,2008,HARASSMENT 2                          ,35
-22,2009,HARASSMENT 2                          ,24
-22,2010,HARASSMENT 2                          ,24
-22,2011,HARASSMENT 2                          ,36
-22,2012,HARASSMENT 2                          ,46
-22,2013,HARASSMENT 2                          ,42
-22,2014,HARASSMENT 2                          ,46
-23,2000,HARASSMENT 2                          ,1169
-23,2001,HARASSMENT 2                          ,1253
-23,2002,HARASSMENT 2                          ,1119
-23,2003,HARASSMENT 2                          ,932
-23,2004,HARASSMENT 2                          ,881
-23,2005,HARASSMENT 2                          ,1037
-23,2006,HARASSMENT 2                          ,924
-23,2007,HARASSMENT 2                          ,920
-23,2008,HARASSMENT 2                          ,929
-23,2009,HARASSMENT 2                          ,978
-23,2010,HARASSMENT 2                          ,764
-23,2011,HARASSMENT 2                          ,771
-23,2012,HARASSMENT 2                          ,743
-23,2013,HARASSMENT 2                          ,790
-23,2014,HARASSMENT 2                          ,816
-24,2000,HARASSMENT 2                          ,882
-24,2001,HARASSMENT 2                          ,989
-24,2002,HARASSMENT 2                          ,872
-24,2003,HARASSMENT 2                          ,812
-24,2004,HARASSMENT 2                          ,789
-24,2005,HARASSMENT 2                          ,810
-24,2006,HARASSMENT 2                          ,898
-24,2007,HARASSMENT 2                          ,789
-24,2008,HARASSMENT 2                          ,767
-24,2009,HARASSMENT 2                          ,738
-24,2010,HARASSMENT 2                          ,714
-24,2011,HARASSMENT 2                          ,620
-24,2012,HARASSMENT 2                          ,689
-24,2013,HARASSMENT 2                          ,604
-24,2014,HARASSMENT 2                          ,663
-25,2000,HARASSMENT 2                          ,1033
-25,2001,HARASSMENT 2                          ,1123
-25,2002,HARASSMENT 2                          ,1088
-25,2003,HARASSMENT 2                          ,981
-25,2004,HARASSMENT 2                          ,894
-25,2005,HARASSMENT 2                          ,943
-25,2006,HARASSMENT 2                          ,859
-25,2007,HARASSMENT 2                          ,870
-25,2008,HARASSMENT 2                          ,777
-25,2009,HARASSMENT 2                          ,787
-25,2010,HARASSMENT 2                          ,694
-25,2011,HARASSMENT 2                          ,607
-25,2012,HARASSMENT 2                          ,653
-25,2013,HARASSMENT 2                          ,664
-25,2014,HARASSMENT 2                          ,625
-26,2000,HARASSMENT 2                          ,574
-26,2001,HARASSMENT 2                          ,588
-26,2002,HARASSMENT 2                          ,524
-26,2003,HARASSMENT 2                          ,445
-26,2004,HARASSMENT 2                          ,409
-26,2005,HARASSMENT 2                          ,434
-26,2006,HARASSMENT 2                          ,472
-26,2007,HARASSMENT 2                          ,460
-26,2008,HARASSMENT 2                          ,361
-26,2009,HARASSMENT 2                          ,401
-26,2010,HARASSMENT 2                          ,373
-26,2011,HARASSMENT 2                          ,336
-26,2012,HARASSMENT 2                          ,350
-26,2013,HARASSMENT 2                          ,329
-26,2014,HARASSMENT 2                          ,381
-28,2000,HARASSMENT 2                          ,1056
-28,2001,HARASSMENT 2                          ,1209
-28,2002,HARASSMENT 2                          ,1043
-28,2003,HARASSMENT 2                          ,906
-28,2004,HARASSMENT 2                          ,836
-28,2005,HARASSMENT 2                          ,837
-28,2006,HARASSMENT 2                          ,761
-28,2007,HARASSMENT 2                          ,760
-28,2008,HARASSMENT 2                          ,678
-28,2009,HARASSMENT 2                          ,658
-28,2010,HARASSMENT 2                          ,628
-28,2011,HARASSMENT 2                          ,475
-28,2012,HARASSMENT 2                          ,563
-28,2013,HARASSMENT 2                          ,534
-28,2014,HARASSMENT 2                          ,626
-30,2000,HARASSMENT 2                          ,993
-30,2001,HARASSMENT 2                          ,1028
-30,2002,HARASSMENT 2                          ,891
-30,2003,HARASSMENT 2                          ,858
-30,2004,HARASSMENT 2                          ,795
-30,2005,HARASSMENT 2                          ,778
-30,2006,HARASSMENT 2                          ,654
-30,2007,HARASSMENT 2                          ,573
-30,2008,HARASSMENT 2                          ,571
-30,2009,HARASSMENT 2                          ,549
-30,2010,HARASSMENT 2                          ,526
-30,2011,HARASSMENT 2                          ,536
-30,2012,HARASSMENT 2                          ,653
-30,2013,HARASSMENT 2                          ,570
-30,2014,HARASSMENT 2                          ,615
-32,2000,HARASSMENT 2                          ,1299
-32,2001,HARASSMENT 2                          ,1447
-32,2002,HARASSMENT 2                          ,1117
-32,2003,HARASSMENT 2                          ,1066
-32,2004,HARASSMENT 2                          ,1122
-32,2005,HARASSMENT 2                          ,1067
-32,2006,HARASSMENT 2                          ,856
-32,2007,HARASSMENT 2                          ,1011
-32,2008,HARASSMENT 2                          ,941
-32,2009,HARASSMENT 2                          ,1033
-32,2010,HARASSMENT 2                          ,1018
-32,2011,HARASSMENT 2                          ,952
-32,2012,HARASSMENT 2                          ,925
-32,2013,HARASSMENT 2                          ,898
-32,2014,HARASSMENT 2                          ,923
-33,2000,HARASSMENT 2                          ,860
-33,2001,HARASSMENT 2                          ,878
-33,2002,HARASSMENT 2                          ,786
-33,2003,HARASSMENT 2                          ,744
-33,2004,HARASSMENT 2                          ,650
-33,2005,HARASSMENT 2                          ,687
-33,2006,HARASSMENT 2                          ,634
-33,2007,HARASSMENT 2                          ,582
-33,2008,HARASSMENT 2                          ,484
-33,2009,HARASSMENT 2                          ,474
-33,2010,HARASSMENT 2                          ,494
-33,2011,HARASSMENT 2                          ,497
-33,2012,HARASSMENT 2                          ,473
-33,2013,HARASSMENT 2                          ,470
-33,2014,HARASSMENT 2                          ,445
-34,2000,HARASSMENT 2                          ,1171
-34,2001,HARASSMENT 2                          ,1262
-34,2002,HARASSMENT 2                          ,1030
-34,2003,HARASSMENT 2                          ,727
-34,2004,HARASSMENT 2                          ,847
-34,2005,HARASSMENT 2                          ,659
-34,2006,HARASSMENT 2                          ,587
-34,2007,HARASSMENT 2                          ,568
-34,2008,HARASSMENT 2                          ,481
-34,2009,HARASSMENT 2                          ,452
-34,2010,HARASSMENT 2                          ,510
-34,2011,HARASSMENT 2                          ,568
-34,2012,HARASSMENT 2                          ,528
-34,2013,HARASSMENT 2                          ,485
-34,2014,HARASSMENT 2                          ,690
-40,2000,HARASSMENT 2                          ,2210
-40,2001,HARASSMENT 2                          ,2393
-40,2002,HARASSMENT 2                          ,2060
-40,2003,HARASSMENT 2                          ,1884
-40,2004,HARASSMENT 2                          ,1848
-40,2005,HARASSMENT 2                          ,1802
-40,2006,HARASSMENT 2                          ,1540
-40,2007,HARASSMENT 2                          ,1659
-40,2008,HARASSMENT 2                          ,1558
-40,2009,HARASSMENT 2                          ,1561
-40,2010,HARASSMENT 2                          ,1488
-40,2011,HARASSMENT 2                          ,1342
-40,2012,HARASSMENT 2                          ,1364
-40,2013,HARASSMENT 2                          ,1282
-40,2014,HARASSMENT 2                          ,1356
-41,2000,HARASSMENT 2                          ,1101
-41,2001,HARASSMENT 2                          ,1276
-41,2002,HARASSMENT 2                          ,1186
-41,2003,HARASSMENT 2                          ,1107
-41,2004,HARASSMENT 2                          ,1028
-41,2005,HARASSMENT 2                          ,1011
-41,2006,HARASSMENT 2                          ,913
-41,2007,HARASSMENT 2                          ,927
-41,2008,HARASSMENT 2                          ,874
-41,2009,HARASSMENT 2                          ,810
-41,2010,HARASSMENT 2                          ,741
-41,2011,HARASSMENT 2                          ,715
-41,2012,HARASSMENT 2                          ,808
-41,2013,HARASSMENT 2                          ,909
-41,2014,HARASSMENT 2                          ,922
-42,2000,HARASSMENT 2                          ,2026
-42,2001,HARASSMENT 2                          ,1741
-42,2002,HARASSMENT 2                          ,1566
-42,2003,HARASSMENT 2                          ,1557
-42,2004,HARASSMENT 2                          ,1471
-42,2005,HARASSMENT 2                          ,1376
-42,2006,HARASSMENT 2                          ,1260
-42,2007,HARASSMENT 2                          ,1215
-42,2008,HARASSMENT 2                          ,922
-42,2009,HARASSMENT 2                          ,865
-42,2010,HARASSMENT 2                          ,812
-42,2011,HARASSMENT 2                          ,810
-42,2012,HARASSMENT 2                          ,906
-42,2013,HARASSMENT 2                          ,912
-42,2014,HARASSMENT 2                          ,1086
-43,2000,HARASSMENT 2                          ,2877
-43,2001,HARASSMENT 2                          ,2932
-43,2002,HARASSMENT 2                          ,2656
-43,2003,HARASSMENT 2                          ,2394
-43,2004,HARASSMENT 2                          ,2238
-43,2005,HARASSMENT 2                          ,2164
-43,2006,HARASSMENT 2                          ,1873
-43,2007,HARASSMENT 2                          ,1659
-43,2008,HARASSMENT 2                          ,1603
-43,2009,HARASSMENT 2                          ,1543
-43,2010,HARASSMENT 2                          ,1530
-43,2011,HARASSMENT 2                          ,1561
-43,2012,HARASSMENT 2                          ,1549
-43,2013,HARASSMENT 2                          ,1575
-43,2014,HARASSMENT 2                          ,1564
-44,2000,HARASSMENT 2                          ,3194
-44,2001,HARASSMENT 2                          ,3156
-44,2002,HARASSMENT 2                          ,2349
-44,2003,HARASSMENT 2                          ,2295
-44,2004,HARASSMENT 2                          ,1937
-44,2005,HARASSMENT 2                          ,1587
-44,2006,HARASSMENT 2                          ,1557
-44,2007,HARASSMENT 2                          ,1141
-44,2008,HARASSMENT 2                          ,1055
-44,2009,HARASSMENT 2                          ,1149
-44,2010,HARASSMENT 2                          ,1108
-44,2011,HARASSMENT 2                          ,1072
-44,2012,HARASSMENT 2                          ,1213
-44,2013,HARASSMENT 2                          ,1318
-44,2014,HARASSMENT 2                          ,1250
-45,2000,HARASSMENT 2                          ,1642
-45,2001,HARASSMENT 2                          ,1588
-45,2002,HARASSMENT 2                          ,1398
-45,2003,HARASSMENT 2                          ,1351
-45,2004,HARASSMENT 2                          ,1321
-45,2005,HARASSMENT 2                          ,1153
-45,2006,HARASSMENT 2                          ,1084
-45,2007,HARASSMENT 2                          ,1033
-45,2008,HARASSMENT 2                          ,886
-45,2009,HARASSMENT 2                          ,926
-45,2010,HARASSMENT 2                          ,966
-45,2011,HARASSMENT 2                          ,857
-45,2012,HARASSMENT 2                          ,806
-45,2013,HARASSMENT 2                          ,845
-45,2014,HARASSMENT 2                          ,1004
-46,2000,HARASSMENT 2                          ,2418
-46,2001,HARASSMENT 2                          ,2335
-46,2002,HARASSMENT 2                          ,1817
-46,2003,HARASSMENT 2                          ,2029
-46,2004,HARASSMENT 2                          ,1918
-46,2005,HARASSMENT 2                          ,1592
-46,2006,HARASSMENT 2                          ,1601
-46,2007,HARASSMENT 2                          ,1525
-46,2008,HARASSMENT 2                          ,1274
-46,2009,HARASSMENT 2                          ,1305
-46,2010,HARASSMENT 2                          ,1385
-46,2011,HARASSMENT 2                          ,1177
-46,2012,HARASSMENT 2                          ,1239
-46,2013,HARASSMENT 2                          ,1262
-46,2014,HARASSMENT 2                          ,1215
-47,2000,HARASSMENT 2                          ,2496
-47,2001,HARASSMENT 2                          ,2348
-47,2002,HARASSMENT 2                          ,2245
-47,2003,HARASSMENT 2                          ,1789
-47,2004,HARASSMENT 2                          ,1854
-47,2005,HARASSMENT 2                          ,1665
-47,2006,HARASSMENT 2                          ,1289
-47,2007,HARASSMENT 2                          ,1234
-47,2008,HARASSMENT 2                          ,1094
-47,2009,HARASSMENT 2                          ,1014
-47,2010,HARASSMENT 2                          ,936
-47,2011,HARASSMENT 2                          ,872
-47,2012,HARASSMENT 2                          ,1084
-47,2013,HARASSMENT 2                          ,1044
-47,2014,HARASSMENT 2                          ,1135
-48,2000,HARASSMENT 2                          ,1785
-48,2001,HARASSMENT 2                          ,1731
-48,2002,HARASSMENT 2                          ,1432
-48,2003,HARASSMENT 2                          ,1215
-48,2004,HARASSMENT 2                          ,1055
-48,2005,HARASSMENT 2                          ,1010
-48,2006,HARASSMENT 2                          ,971
-48,2007,HARASSMENT 2                          ,922
-48,2008,HARASSMENT 2                          ,660
-48,2009,HARASSMENT 2                          ,689
-48,2010,HARASSMENT 2                          ,738
-48,2011,HARASSMENT 2                          ,670
-48,2012,HARASSMENT 2                          ,816
-48,2013,HARASSMENT 2                          ,840
-48,2014,HARASSMENT 2                          ,909
-49,2000,HARASSMENT 2                          ,1550
-49,2001,HARASSMENT 2                          ,1722
-49,2002,HARASSMENT 2                          ,1717
-49,2003,HARASSMENT 2                          ,1482
-49,2004,HARASSMENT 2                          ,1293
-49,2005,HARASSMENT 2                          ,1066
-49,2006,HARASSMENT 2                          ,1196
-49,2007,HARASSMENT 2                          ,1248
-49,2008,HARASSMENT 2                          ,1044
-49,2009,HARASSMENT 2                          ,924
-49,2010,HARASSMENT 2                          ,947
-49,2011,HARASSMENT 2                          ,929
-49,2012,HARASSMENT 2                          ,752
-49,2013,HARASSMENT 2                          ,797
-49,2014,HARASSMENT 2                          ,769
-50,2000,HARASSMENT 2                          ,1100
-50,2001,HARASSMENT 2                          ,1022
-50,2002,HARASSMENT 2                          ,930
-50,2003,HARASSMENT 2                          ,732
-50,2004,HARASSMENT 2                          ,728
-50,2005,HARASSMENT 2                          ,856
-50,2006,HARASSMENT 2                          ,699
-50,2007,HARASSMENT 2                          ,736
-50,2008,HARASSMENT 2                          ,771
-50,2009,HARASSMENT 2                          ,642
-50,2010,HARASSMENT 2                          ,633
-50,2011,HARASSMENT 2                          ,505
-50,2012,HARASSMENT 2                          ,471
-50,2013,HARASSMENT 2                          ,530
-50,2014,HARASSMENT 2                          ,516
-52,2000,HARASSMENT 2                          ,2126
-52,2001,HARASSMENT 2                          ,2297
-52,2002,HARASSMENT 2                          ,2202
-52,2003,HARASSMENT 2                          ,1979
-52,2004,HARASSMENT 2                          ,1776
-52,2005,HARASSMENT 2                          ,1662
-52,2006,HARASSMENT 2                          ,1436
-52,2007,HARASSMENT 2                          ,1282
-52,2008,HARASSMENT 2                          ,1143
-52,2009,HARASSMENT 2                          ,1000
-52,2010,HARASSMENT 2                          ,938
-52,2011,HARASSMENT 2                          ,1052
-52,2012,HARASSMENT 2                          ,1029
-52,2013,HARASSMENT 2                          ,1004
-52,2014,HARASSMENT 2                          ,1141
-60,2000,HARASSMENT 2                          ,1142
-60,2001,HARASSMENT 2                          ,1098
-60,2002,HARASSMENT 2                          ,961
-60,2003,HARASSMENT 2                          ,988
-60,2004,HARASSMENT 2                          ,943
-60,2005,HARASSMENT 2                          ,878
-60,2006,HARASSMENT 2                          ,1020
-60,2007,HARASSMENT 2                          ,824
-60,2008,HARASSMENT 2                          ,789
-60,2009,HARASSMENT 2                          ,746
-60,2010,HARASSMENT 2                          ,676
-60,2011,HARASSMENT 2                          ,709
-60,2012,HARASSMENT 2                          ,645
-60,2013,HARASSMENT 2                          ,667
-60,2014,HARASSMENT 2                          ,835
-61,2000,HARASSMENT 2                          ,1417
-61,2001,HARASSMENT 2                          ,1530
-61,2002,HARASSMENT 2                          ,1247
-61,2003,HARASSMENT 2                          ,1241
-61,2004,HARASSMENT 2                          ,1234
-61,2005,HARASSMENT 2                          ,1220
-61,2006,HARASSMENT 2                          ,1127
-61,2007,HARASSMENT 2                          ,1008
-61,2008,HARASSMENT 2                          ,882
-61,2009,HARASSMENT 2                          ,851
-61,2010,HARASSMENT 2                          ,769
-61,2011,HARASSMENT 2                          ,610
-61,2012,HARASSMENT 2                          ,697
-61,2013,HARASSMENT 2                          ,632
-61,2014,HARASSMENT 2                          ,654
-62,2000,HARASSMENT 2                          ,1453
-62,2001,HARASSMENT 2                          ,1340
-62,2002,HARASSMENT 2                          ,1024
-62,2003,HARASSMENT 2                          ,952
-62,2004,HARASSMENT 2                          ,859
-62,2005,HARASSMENT 2                          ,1067
-62,2006,HARASSMENT 2                          ,1090
-62,2007,HARASSMENT 2                          ,977
-62,2008,HARASSMENT 2                          ,855
-62,2009,HARASSMENT 2                          ,776
-62,2010,HARASSMENT 2                          ,797
-62,2011,HARASSMENT 2                          ,767
-62,2012,HARASSMENT 2                          ,819
-62,2013,HARASSMENT 2                          ,818
-62,2014,HARASSMENT 2                          ,925
-63,2000,HARASSMENT 2                          ,1214
-63,2001,HARASSMENT 2                          ,1317
-63,2002,HARASSMENT 2                          ,1074
-63,2003,HARASSMENT 2                          ,1091
-63,2004,HARASSMENT 2                          ,1098
-63,2005,HARASSMENT 2                          ,1070
-63,2006,HARASSMENT 2                          ,968
-63,2007,HARASSMENT 2                          ,848
-63,2008,HARASSMENT 2                          ,767
-63,2009,HARASSMENT 2                          ,739
-63,2010,HARASSMENT 2                          ,696
-63,2011,HARASSMENT 2                          ,534
-63,2012,HARASSMENT 2                          ,506
-63,2013,HARASSMENT 2                          ,515
-63,2014,HARASSMENT 2                          ,582
-66,2000,HARASSMENT 2                          ,1110
-66,2001,HARASSMENT 2                          ,1065
-66,2002,HARASSMENT 2                          ,755
-66,2003,HARASSMENT 2                          ,760
-66,2004,HARASSMENT 2                          ,654
-66,2005,HARASSMENT 2                          ,755
-66,2006,HARASSMENT 2                          ,730
-66,2007,HARASSMENT 2                          ,685
-66,2008,HARASSMENT 2                          ,622
-66,2009,HARASSMENT 2                          ,633
-66,2010,HARASSMENT 2                          ,593
-66,2011,HARASSMENT 2                          ,640
-66,2012,HARASSMENT 2                          ,651
-66,2013,HARASSMENT 2                          ,574
-66,2014,HARASSMENT 2                          ,524
-67,2000,HARASSMENT 2                          ,2300
-67,2001,HARASSMENT 2                          ,2429
-67,2002,HARASSMENT 2                          ,1945
-67,2003,HARASSMENT 2                          ,1805
-67,2004,HARASSMENT 2                          ,1575
-67,2005,HARASSMENT 2                          ,1312
-67,2006,HARASSMENT 2                          ,1182
-67,2007,HARASSMENT 2                          ,926
-67,2008,HARASSMENT 2                          ,969
-67,2009,HARASSMENT 2                          ,964
-67,2010,HARASSMENT 2                          ,1076
-67,2011,HARASSMENT 2                          ,1032
-67,2012,HARASSMENT 2                          ,1084
-67,2013,HARASSMENT 2                          ,1233
-67,2014,HARASSMENT 2                          ,1638
-68,2000,HARASSMENT 2                          ,1101
-68,2001,HARASSMENT 2                          ,1237
-68,2002,HARASSMENT 2                          ,916
-68,2003,HARASSMENT 2                          ,971
-68,2004,HARASSMENT 2                          ,870
-68,2005,HARASSMENT 2                          ,883
-68,2006,HARASSMENT 2                          ,815
-68,2007,HARASSMENT 2                          ,764
-68,2008,HARASSMENT 2                          ,823
-68,2009,HARASSMENT 2                          ,733
-68,2010,HARASSMENT 2                          ,681
-68,2011,HARASSMENT 2                          ,708
-68,2012,HARASSMENT 2                          ,720
-68,2013,HARASSMENT 2                          ,748
-68,2014,HARASSMENT 2                          ,616
-69,2000,HARASSMENT 2                          ,1317
-69,2001,HARASSMENT 2                          ,1383
-69,2002,HARASSMENT 2                          ,1101
-69,2003,HARASSMENT 2                          ,1058
-69,2004,HARASSMENT 2                          ,1049
-69,2005,HARASSMENT 2                          ,974
-69,2006,HARASSMENT 2                          ,897
-69,2007,HARASSMENT 2                          ,799
-69,2008,HARASSMENT 2                          ,741
-69,2009,HARASSMENT 2                          ,695
-69,2010,HARASSMENT 2                          ,726
-69,2011,HARASSMENT 2                          ,757
-69,2012,HARASSMENT 2                          ,833
-69,2013,HARASSMENT 2                          ,782
-69,2014,HARASSMENT 2                          ,856
-70,2000,HARASSMENT 2                          ,1595
-70,2001,HARASSMENT 2                          ,1714
-70,2002,HARASSMENT 2                          ,1379
-70,2003,HARASSMENT 2                          ,1470
-70,2004,HARASSMENT 2                          ,1379
-70,2005,HARASSMENT 2                          ,1252
-70,2006,HARASSMENT 2                          ,1120
-70,2007,HARASSMENT 2                          ,894
-70,2008,HARASSMENT 2                          ,780
-70,2009,HARASSMENT 2                          ,694
-70,2010,HARASSMENT 2                          ,665
-70,2011,HARASSMENT 2                          ,596
-70,2012,HARASSMENT 2                          ,875
-70,2013,HARASSMENT 2                          ,854
-70,2014,HARASSMENT 2                          ,934
-71,2000,HARASSMENT 2                          ,2004
-71,2001,HARASSMENT 2                          ,1914
-71,2002,HARASSMENT 2                          ,1460
-71,2003,HARASSMENT 2                          ,1486
-71,2004,HARASSMENT 2                          ,1162
-71,2005,HARASSMENT 2                          ,954
-71,2006,HARASSMENT 2                          ,795
-71,2007,HARASSMENT 2                          ,883
-71,2008,HARASSMENT 2                          ,974
-71,2009,HARASSMENT 2                          ,942
-71,2010,HARASSMENT 2                          ,920
-71,2011,HARASSMENT 2                          ,884
-71,2012,HARASSMENT 2                          ,977
-71,2013,HARASSMENT 2                          ,992
-71,2014,HARASSMENT 2                          ,972
-72,2000,HARASSMENT 2                          ,1512
-72,2001,HARASSMENT 2                          ,1379
-72,2002,HARASSMENT 2                          ,1174
-72,2003,HARASSMENT 2                          ,1013
-72,2004,HARASSMENT 2                          ,985
-72,2005,HARASSMENT 2                          ,823
-72,2006,HARASSMENT 2                          ,732
-72,2007,HARASSMENT 2                          ,583
-72,2008,HARASSMENT 2                          ,595
-72,2009,HARASSMENT 2                          ,606
-72,2010,HARASSMENT 2                          ,532
-72,2011,HARASSMENT 2                          ,583
-72,2012,HARASSMENT 2                          ,612
-72,2013,HARASSMENT 2                          ,604
-72,2014,HARASSMENT 2                          ,601
-73,2000,HARASSMENT 2                          ,1444
-73,2001,HARASSMENT 2                          ,1561
-73,2002,HARASSMENT 2                          ,1513
-73,2003,HARASSMENT 2                          ,1418
-73,2004,HARASSMENT 2                          ,1454
-73,2005,HARASSMENT 2                          ,1392
-73,2006,HARASSMENT 2                          ,1210
-73,2007,HARASSMENT 2                          ,1104
-73,2008,HARASSMENT 2                          ,1148
-73,2009,HARASSMENT 2                          ,1320
-73,2010,HARASSMENT 2                          ,1221
-73,2011,HARASSMENT 2                          ,1210
-73,2012,HARASSMENT 2                          ,1350
-73,2013,HARASSMENT 2                          ,1358
-73,2014,HARASSMENT 2                          ,1381
-75,2000,HARASSMENT 2                          ,2644
-75,2001,HARASSMENT 2                          ,2652
-75,2002,HARASSMENT 2                          ,2102
-75,2003,HARASSMENT 2                          ,2200
-75,2004,HARASSMENT 2                          ,2203
-75,2005,HARASSMENT 2                          ,1973
-75,2006,HARASSMENT 2                          ,1650
-75,2007,HARASSMENT 2                          ,1506
-75,2008,HARASSMENT 2                          ,1468
-75,2009,HARASSMENT 2                          ,1632
-75,2010,HARASSMENT 2                          ,1527
-75,2011,HARASSMENT 2                          ,1527
-75,2012,HARASSMENT 2                          ,1605
-75,2013,HARASSMENT 2                          ,1763
-75,2014,HARASSMENT 2                          ,2106
-76,2000,HARASSMENT 2                          ,685
-76,2001,HARASSMENT 2                          ,747
-76,2002,HARASSMENT 2                          ,658
-76,2003,HARASSMENT 2                          ,603
-76,2004,HARASSMENT 2                          ,629
-76,2005,HARASSMENT 2                          ,524
-76,2006,HARASSMENT 2                          ,434
-76,2007,HARASSMENT 2                          ,412
-76,2008,HARASSMENT 2                          ,379
-76,2009,HARASSMENT 2                          ,339
-76,2010,HARASSMENT 2                          ,430
-76,2011,HARASSMENT 2                          ,323
-76,2012,HARASSMENT 2                          ,311
-76,2013,HARASSMENT 2                          ,285
-76,2014,HARASSMENT 2                          ,357
-77,2000,HARASSMENT 2                          ,1417
-77,2001,HARASSMENT 2                          ,1522
-77,2002,HARASSMENT 2                          ,1221
-77,2003,HARASSMENT 2                          ,1245
-77,2004,HARASSMENT 2                          ,1009
-77,2005,HARASSMENT 2                          ,827
-77,2006,HARASSMENT 2                          ,774
-77,2007,HARASSMENT 2                          ,854
-77,2008,HARASSMENT 2                          ,837
-77,2009,HARASSMENT 2                          ,803
-77,2010,HARASSMENT 2                          ,860
-77,2011,HARASSMENT 2                          ,853
-77,2012,HARASSMENT 2                          ,940
-77,2013,HARASSMENT 2                          ,822
-77,2014,HARASSMENT 2                          ,1032
-78,2000,HARASSMENT 2                          ,815
-78,2001,HARASSMENT 2                          ,732
-78,2002,HARASSMENT 2                          ,518
-78,2003,HARASSMENT 2                          ,483
-78,2004,HARASSMENT 2                          ,497
-78,2005,HARASSMENT 2                          ,403
-78,2006,HARASSMENT 2                          ,371
-78,2007,HARASSMENT 2                          ,375
-78,2008,HARASSMENT 2                          ,345
-78,2009,HARASSMENT 2                          ,298
-78,2010,HARASSMENT 2                          ,316
-78,2011,HARASSMENT 2                          ,297
-78,2012,HARASSMENT 2                          ,365
-78,2013,HARASSMENT 2                          ,359
-78,2014,HARASSMENT 2                          ,436
-79,2000,HARASSMENT 2                          ,1500
-79,2001,HARASSMENT 2                          ,1685
-79,2002,HARASSMENT 2                          ,1254
-79,2003,HARASSMENT 2                          ,1292
-79,2004,HARASSMENT 2                          ,1305
-79,2005,HARASSMENT 2                          ,1277
-79,2006,HARASSMENT 2                          ,1257
-79,2007,HARASSMENT 2                          ,1083
-79,2008,HARASSMENT 2                          ,1183
-79,2009,HARASSMENT 2                          ,966
-79,2010,HARASSMENT 2                          ,993
-79,2011,HARASSMENT 2                          ,865
-79,2012,HARASSMENT 2                          ,1014
-79,2013,HARASSMENT 2                          ,988
-79,2014,HARASSMENT 2                          ,1012
-81,2000,HARASSMENT 2                          ,1138
-81,2001,HARASSMENT 2                          ,1289
-81,2002,HARASSMENT 2                          ,980
-81,2003,HARASSMENT 2                          ,1055
-81,2004,HARASSMENT 2                          ,990
-81,2005,HARASSMENT 2                          ,815
-81,2006,HARASSMENT 2                          ,899
-81,2007,HARASSMENT 2                          ,984
-81,2008,HARASSMENT 2                          ,884
-81,2009,HARASSMENT 2                          ,835
-81,2010,HARASSMENT 2                          ,835
-81,2011,HARASSMENT 2                          ,720
-81,2012,HARASSMENT 2                          ,881
-81,2013,HARASSMENT 2                          ,918
-81,2014,HARASSMENT 2                          ,906
-83,2000,HARASSMENT 2                          ,1762
-83,2001,HARASSMENT 2                          ,2083
-83,2002,HARASSMENT 2                          ,1635
-83,2003,HARASSMENT 2                          ,1518
-83,2004,HARASSMENT 2                          ,1209
-83,2005,HARASSMENT 2                          ,1085
-83,2006,HARASSMENT 2                          ,1023
-83,2007,HARASSMENT 2                          ,901
-83,2008,HARASSMENT 2                          ,833
-83,2009,HARASSMENT 2                          ,686
-83,2010,HARASSMENT 2                          ,727
-83,2011,HARASSMENT 2                          ,718
-83,2012,HARASSMENT 2                          ,730
-83,2013,HARASSMENT 2                          ,791
-83,2014,HARASSMENT 2                          ,802
-84,2000,HARASSMENT 2                          ,1014
-84,2001,HARASSMENT 2                          ,1019
-84,2002,HARASSMENT 2                          ,878
-84,2003,HARASSMENT 2                          ,774
-84,2004,HARASSMENT 2                          ,729
-84,2005,HARASSMENT 2                          ,691
-84,2006,HARASSMENT 2                          ,667
-84,2007,HARASSMENT 2                          ,607
-84,2008,HARASSMENT 2                          ,589
-84,2009,HARASSMENT 2                          ,571
-84,2010,HARASSMENT 2                          ,651
-84,2011,HARASSMENT 2                          ,621
-84,2012,HARASSMENT 2                          ,653
-84,2013,HARASSMENT 2                          ,568
-84,2014,HARASSMENT 2                          ,641
-88,2000,HARASSMENT 2                          ,991
-88,2001,HARASSMENT 2                          ,1084
-88,2002,HARASSMENT 2                          ,970
-88,2003,HARASSMENT 2                          ,877
-88,2004,HARASSMENT 2                          ,792
-88,2005,HARASSMENT 2                          ,657
-88,2006,HARASSMENT 2                          ,633
-88,2007,HARASSMENT 2                          ,633
-88,2008,HARASSMENT 2                          ,596
-88,2009,HARASSMENT 2                          ,466
-88,2010,HARASSMENT 2                          ,548
-88,2011,HARASSMENT 2                          ,509
-88,2012,HARASSMENT 2                          ,567
-88,2013,HARASSMENT 2                          ,526
-88,2014,HARASSMENT 2                          ,559
-90,2000,HARASSMENT 2                          ,919
-90,2001,HARASSMENT 2                          ,1003
-90,2002,HARASSMENT 2                          ,877
-90,2003,HARASSMENT 2                          ,675
-90,2004,HARASSMENT 2                          ,815
-90,2005,HARASSMENT 2                          ,761
-90,2006,HARASSMENT 2                          ,745
-90,2007,HARASSMENT 2                          ,670
-90,2008,HARASSMENT 2                          ,550
-90,2009,HARASSMENT 2                          ,580
-90,2010,HARASSMENT 2                          ,569
-90,2011,HARASSMENT 2                          ,560
-90,2012,HARASSMENT 2                          ,645
-90,2013,HARASSMENT 2                          ,648
-90,2014,HARASSMENT 2                          ,718
-94,2000,HARASSMENT 2                          ,691
-94,2001,HARASSMENT 2                          ,704
-94,2002,HARASSMENT 2                          ,601
-94,2003,HARASSMENT 2                          ,619
-94,2004,HARASSMENT 2                          ,558
-94,2005,HARASSMENT 2                          ,463
-94,2006,HARASSMENT 2                          ,389
-94,2007,HARASSMENT 2                          ,371
-94,2008,HARASSMENT 2                          ,317
-94,2009,HARASSMENT 2                          ,277
-94,2010,HARASSMENT 2                          ,295
-94,2011,HARASSMENT 2                          ,284
-94,2012,HARASSMENT 2                          ,285
-94,2013,HARASSMENT 2                          ,233
-94,2014,HARASSMENT 2                          ,363
-100,2000,HARASSMENT 2                          ,571
-100,2001,HARASSMENT 2                          ,590
-100,2002,HARASSMENT 2                          ,591
-100,2003,HARASSMENT 2                          ,574
-100,2004,HARASSMENT 2                          ,579
-100,2005,HARASSMENT 2                          ,549
-100,2006,HARASSMENT 2                          ,508
-100,2007,HARASSMENT 2                          ,460
-100,2008,HARASSMENT 2                          ,469
-100,2009,HARASSMENT 2                          ,502
-100,2010,HARASSMENT 2                          ,400
-100,2011,HARASSMENT 2                          ,366
-100,2012,HARASSMENT 2                          ,354
-100,2013,HARASSMENT 2                          ,317
-100,2014,HARASSMENT 2                          ,459
-101,2000,HARASSMENT 2                          ,1429
-101,2001,HARASSMENT 2                          ,1454
-101,2002,HARASSMENT 2                          ,1271
-101,2003,HARASSMENT 2                          ,940
-101,2004,HARASSMENT 2                          ,997
-101,2005,HARASSMENT 2                          ,1060
-101,2006,HARASSMENT 2                          ,859
-101,2007,HARASSMENT 2                          ,833
-101,2008,HARASSMENT 2                          ,831
-101,2009,HARASSMENT 2                          ,601
-101,2010,HARASSMENT 2                          ,566
-101,2011,HARASSMENT 2                          ,519
-101,2012,HARASSMENT 2                          ,559
-101,2013,HARASSMENT 2                          ,575
-101,2014,HARASSMENT 2                          ,735
-102,2000,HARASSMENT 2                          ,1726
-102,2001,HARASSMENT 2                          ,1827
-102,2002,HARASSMENT 2                          ,1628
-102,2003,HARASSMENT 2                          ,1276
-102,2004,HARASSMENT 2                          ,997
-102,2005,HARASSMENT 2                          ,1035
-102,2006,HARASSMENT 2                          ,818
-102,2007,HARASSMENT 2                          ,935
-102,2008,HARASSMENT 2                          ,1022
-102,2009,HARASSMENT 2                          ,977
-102,2010,HARASSMENT 2                          ,855
-102,2011,HARASSMENT 2                          ,855
-102,2012,HARASSMENT 2                          ,796
-102,2013,HARASSMENT 2                          ,870
-102,2014,HARASSMENT 2                          ,911
-103,2000,HARASSMENT 2                          ,1882
-103,2001,HARASSMENT 2                          ,1904
-103,2002,HARASSMENT 2                          ,1848
-103,2003,HARASSMENT 2                          ,1488
-103,2004,HARASSMENT 2                          ,1328
-103,2005,HARASSMENT 2                          ,1174
-103,2006,HARASSMENT 2                          ,1135
-103,2007,HARASSMENT 2                          ,962
-103,2008,HARASSMENT 2                          ,1112
-103,2009,HARASSMENT 2                          ,1049
-103,2010,HARASSMENT 2                          ,994
-103,2011,HARASSMENT 2                          ,959
-103,2012,HARASSMENT 2                          ,953
-103,2013,HARASSMENT 2                          ,1102
-103,2014,HARASSMENT 2                          ,1235
-104,2000,HARASSMENT 2                          ,2385
-104,2001,HARASSMENT 2                          ,2320
-104,2002,HARASSMENT 2                          ,2051
-104,2003,HARASSMENT 2                          ,1624
-104,2004,HARASSMENT 2                          ,1397
-104,2005,HARASSMENT 2                          ,1305
-104,2006,HARASSMENT 2                          ,1139
-104,2007,HARASSMENT 2                          ,937
-104,2008,HARASSMENT 2                          ,991
-104,2009,HARASSMENT 2                          ,986
-104,2010,HARASSMENT 2                          ,962
-104,2011,HARASSMENT 2                          ,903
-104,2012,HARASSMENT 2                          ,916
-104,2013,HARASSMENT 2                          ,915
-104,2014,HARASSMENT 2                          ,1061
-105,2000,HARASSMENT 2                          ,1943
-105,2001,HARASSMENT 2                          ,1886
-105,2002,HARASSMENT 2                          ,2038
-105,2003,HARASSMENT 2                          ,1541
-105,2004,HARASSMENT 2                          ,1404
-105,2005,HARASSMENT 2                          ,1207
-105,2006,HARASSMENT 2                          ,977
-105,2007,HARASSMENT 2                          ,962
-105,2008,HARASSMENT 2                          ,979
-105,2009,HARASSMENT 2                          ,956
-105,2010,HARASSMENT 2                          ,890
-105,2011,HARASSMENT 2                          ,903
-105,2012,HARASSMENT 2                          ,1024
-105,2013,HARASSMENT 2                          ,1035
-105,2014,HARASSMENT 2                          ,1043
-106,2000,HARASSMENT 2                          ,1953
-106,2001,HARASSMENT 2                          ,1912
-106,2002,HARASSMENT 2                          ,1807
-106,2003,HARASSMENT 2                          ,1379
-106,2004,HARASSMENT 2                          ,1108
-106,2005,HARASSMENT 2                          ,1024
-106,2006,HARASSMENT 2                          ,1134
-106,2007,HARASSMENT 2                          ,1106
-106,2008,HARASSMENT 2                          ,936
-106,2009,HARASSMENT 2                          ,951
-106,2010,HARASSMENT 2                          ,822
-106,2011,HARASSMENT 2                          ,706
-106,2012,HARASSMENT 2                          ,795
-106,2013,HARASSMENT 2                          ,785
-106,2014,HARASSMENT 2                          ,920
-107,2000,HARASSMENT 2                          ,1347
-107,2001,HARASSMENT 2                          ,1474
-107,2002,HARASSMENT 2                          ,1470
-107,2003,HARASSMENT 2                          ,1214
-107,2004,HARASSMENT 2                          ,1108
-107,2005,HARASSMENT 2                          ,883
-107,2006,HARASSMENT 2                          ,815
-107,2007,HARASSMENT 2                          ,878
-107,2008,HARASSMENT 2                          ,803
-107,2009,HARASSMENT 2                          ,823
-107,2010,HARASSMENT 2                          ,756
-107,2011,HARASSMENT 2                          ,714
-107,2012,HARASSMENT 2                          ,619
-107,2013,HARASSMENT 2                          ,705
-107,2014,HARASSMENT 2                          ,616
-108,2000,HARASSMENT 2                          ,1100
-108,2001,HARASSMENT 2                          ,1000
-108,2002,HARASSMENT 2                          ,1007
-108,2003,HARASSMENT 2                          ,794
-108,2004,HARASSMENT 2                          ,871
-108,2005,HARASSMENT 2                          ,721
-108,2006,HARASSMENT 2                          ,742
-108,2007,HARASSMENT 2                          ,704
-108,2008,HARASSMENT 2                          ,653
-108,2009,HARASSMENT 2                          ,679
-108,2010,HARASSMENT 2                          ,695
-108,2011,HARASSMENT 2                          ,646
-108,2012,HARASSMENT 2                          ,661
-108,2013,HARASSMENT 2                          ,770
-108,2014,HARASSMENT 2                          ,799
-109,2000,HARASSMENT 2                          ,1738
-109,2001,HARASSMENT 2                          ,1878
-109,2002,HARASSMENT 2                          ,1794
-109,2003,HARASSMENT 2                          ,1612
-109,2004,HARASSMENT 2                          ,1300
-109,2005,HARASSMENT 2                          ,1142
-109,2006,HARASSMENT 2                          ,1004
-109,2007,HARASSMENT 2                          ,1041
-109,2008,HARASSMENT 2                          ,1062
-109,2009,HARASSMENT 2                          ,1037
-109,2010,HARASSMENT 2                          ,988
-109,2011,HARASSMENT 2                          ,924
-109,2012,HARASSMENT 2                          ,890
-109,2013,HARASSMENT 2                          ,888
-109,2014,HARASSMENT 2                          ,1134
-110,2000,HARASSMENT 2                          ,1162
-110,2001,HARASSMENT 2                          ,1231
-110,2002,HARASSMENT 2                          ,1270
-110,2003,HARASSMENT 2                          ,1022
-110,2004,HARASSMENT 2                          ,950
-110,2005,HARASSMENT 2                          ,831
-110,2006,HARASSMENT 2                          ,817
-110,2007,HARASSMENT 2                          ,830
-110,2008,HARASSMENT 2                          ,724
-110,2009,HARASSMENT 2                          ,653
-110,2010,HARASSMENT 2                          ,578
-110,2011,HARASSMENT 2                          ,541
-110,2012,HARASSMENT 2                          ,562
-110,2013,HARASSMENT 2                          ,603
-110,2014,HARASSMENT 2                          ,626
-111,2000,HARASSMENT 2                          ,769
-111,2001,HARASSMENT 2                          ,740
-111,2002,HARASSMENT 2                          ,651
-111,2003,HARASSMENT 2                          ,551
-111,2004,HARASSMENT 2                          ,488
-111,2005,HARASSMENT 2                          ,478
-111,2006,HARASSMENT 2                          ,416
-111,2007,HARASSMENT 2                          ,462
-111,2008,HARASSMENT 2                          ,452
-111,2009,HARASSMENT 2                          ,432
-111,2010,HARASSMENT 2                          ,388
-111,2011,HARASSMENT 2                          ,381
-111,2012,HARASSMENT 2                          ,358
-111,2013,HARASSMENT 2                          ,386
-111,2014,HARASSMENT 2                          ,363
-112,2000,HARASSMENT 2                          ,918
-112,2001,HARASSMENT 2                          ,924
-112,2002,HARASSMENT 2                          ,912
-112,2003,HARASSMENT 2                          ,631
-112,2004,HARASSMENT 2                          ,679
-112,2005,HARASSMENT 2                          ,514
-112,2006,HARASSMENT 2                          ,459
-112,2007,HARASSMENT 2                          ,461
-112,2008,HARASSMENT 2                          ,352
-112,2009,HARASSMENT 2                          ,390
-112,2010,HARASSMENT 2                          ,348
-112,2011,HARASSMENT 2                          ,332
-112,2012,HARASSMENT 2                          ,365
-112,2013,HARASSMENT 2                          ,354
-112,2014,HARASSMENT 2                          ,359
-113,2000,HARASSMENT 2                          ,1187
-113,2001,HARASSMENT 2                          ,1353
-113,2002,HARASSMENT 2                          ,1259
-113,2003,HARASSMENT 2                          ,947
-113,2004,HARASSMENT 2                          ,940
-113,2005,HARASSMENT 2                          ,872
-113,2006,HARASSMENT 2                          ,1035
-113,2007,HARASSMENT 2                          ,1040
-113,2008,HARASSMENT 2                          ,976
-113,2009,HARASSMENT 2                          ,838
-113,2010,HARASSMENT 2                          ,788
-113,2011,HARASSMENT 2                          ,748
-113,2012,HARASSMENT 2                          ,724
-113,2013,HARASSMENT 2                          ,837
-113,2014,HARASSMENT 2                          ,771
-114,2000,HARASSMENT 2                          ,2558
-114,2001,HARASSMENT 2                          ,2559
-114,2002,HARASSMENT 2                          ,2232
-114,2003,HARASSMENT 2                          ,1546
-114,2004,HARASSMENT 2                          ,1542
-114,2005,HARASSMENT 2                          ,1537
-114,2006,HARASSMENT 2                          ,1291
-114,2007,HARASSMENT 2                          ,1144
-114,2008,HARASSMENT 2                          ,1059
-114,2009,HARASSMENT 2                          ,1075
-114,2010,HARASSMENT 2                          ,1054
-114,2011,HARASSMENT 2                          ,1060
-114,2012,HARASSMENT 2                          ,1271
-114,2013,HARASSMENT 2                          ,1294
-114,2014,HARASSMENT 2                          ,1431
-115,2000,HARASSMENT 2                          ,1336
-115,2001,HARASSMENT 2                          ,1401
-115,2002,HARASSMENT 2                          ,1196
-115,2003,HARASSMENT 2                          ,903
-115,2004,HARASSMENT 2                          ,847
-115,2005,HARASSMENT 2                          ,826
-115,2006,HARASSMENT 2                          ,895
-115,2007,HARASSMENT 2                          ,887
-115,2008,HARASSMENT 2                          ,780
-115,2009,HARASSMENT 2                          ,762
-115,2010,HARASSMENT 2                          ,895
-115,2011,HARASSMENT 2                          ,856
-115,2012,HARASSMENT 2                          ,782
-115,2013,HARASSMENT 2                          ,874
-115,2014,HARASSMENT 2                          ,809
-120,2000,HARASSMENT 2                          ,2353
-120,2001,HARASSMENT 2                          ,2288
-120,2002,HARASSMENT 2                          ,1999
-120,2003,HARASSMENT 2                          ,1752
-120,2004,HARASSMENT 2                          ,1996
-120,2005,HARASSMENT 2                          ,2083
-120,2006,HARASSMENT 2                          ,2211
-120,2007,HARASSMENT 2                          ,2162
-120,2008,HARASSMENT 2                          ,1901
-120,2009,HARASSMENT 2                          ,1960
-120,2010,HARASSMENT 2                          ,2067
-120,2011,HARASSMENT 2                          ,1840
-120,2012,HARASSMENT 2                          ,1898
-120,2013,HARASSMENT 2                          ,1780
-120,2014,HARASSMENT 2                          ,1634
-121,2000,HARASSMENT 2                          ,
-121,2001,HARASSMENT 2                          ,
-121,2002,HARASSMENT 2                          ,
-121,2003,HARASSMENT 2                          ,
-121,2004,HARASSMENT 2                          ,
-121,2005,HARASSMENT 2                          ,
-121,2006,HARASSMENT 2                          ,
-121,2007,HARASSMENT 2                          ,
-121,2008,HARASSMENT 2                          ,
-121,2009,HARASSMENT 2                          ,
-121,2010,HARASSMENT 2                          ,
-121,2011,HARASSMENT 2                          ,
-121,2012,HARASSMENT 2                          ,
-121,2013,HARASSMENT 2                          ,601
-121,2014,HARASSMENT 2                          ,1138
-122,2000,HARASSMENT 2                          ,2460
-122,2001,HARASSMENT 2                          ,2261
-122,2002,HARASSMENT 2                          ,2185
-122,2003,HARASSMENT 2                          ,1979
-122,2004,HARASSMENT 2                          ,2243
-122,2005,HARASSMENT 2                          ,1949
-122,2006,HARASSMENT 2                          ,2208
-122,2007,HARASSMENT 2                          ,2179
-122,2008,HARASSMENT 2                          ,2042
-122,2009,HARASSMENT 2                          ,1764
-122,2010,HARASSMENT 2                          ,1749
-122,2011,HARASSMENT 2                          ,1583
-122,2012,HARASSMENT 2                          ,1590
-122,2013,HARASSMENT 2                          ,1240
-122,2014,HARASSMENT 2                          ,1077
-123,2000,HARASSMENT 2                          ,781
-123,2001,HARASSMENT 2                          ,925
-123,2002,HARASSMENT 2                          ,813
-123,2003,HARASSMENT 2                          ,813
-123,2004,HARASSMENT 2                          ,828
-123,2005,HARASSMENT 2                          ,783
-123,2006,HARASSMENT 2                          ,816
-123,2007,HARASSMENT 2                          ,782
-123,2008,HARASSMENT 2                          ,727
-123,2009,HARASSMENT 2                          ,687
-123,2010,HARASSMENT 2                          ,634
-123,2011,HARASSMENT 2                          ,615
-123,2012,HARASSMENT 2                          ,595
-123,2013,HARASSMENT 2                          ,494
-123,2014,HARASSMENT 2                          ,531
+1,2000,HARASSMENT 2,971
+1,2001,HARASSMENT 2,859
+1,2002,HARASSMENT 2,806
+1,2003,HARASSMENT 2,760
+1,2004,HARASSMENT 2,705
+1,2005,HARASSMENT 2,597
+1,2006,HARASSMENT 2,564
+1,2007,HARASSMENT 2,601
+1,2008,HARASSMENT 2,507
+1,2009,HARASSMENT 2,404
+1,2010,HARASSMENT 2,405
+1,2011,HARASSMENT 2,398
+1,2012,HARASSMENT 2,451
+1,2013,HARASSMENT 2,451
+1,2014,HARASSMENT 2,474
+1,2000,OTHER VIOLATIONS,91
+1,2001,OTHER VIOLATIONS,49
+1,2002,OTHER VIOLATIONS,59
+1,2003,OTHER VIOLATIONS,59
+1,2004,OTHER VIOLATIONS,81
+1,2005,OTHER VIOLATIONS,17
+1,2006,OTHER VIOLATIONS,28
+1,2007,OTHER VIOLATIONS,91
+1,2008,OTHER VIOLATIONS,62
+1,2009,OTHER VIOLATIONS,43
+1,2010,OTHER VIOLATIONS,33
+1,2011,OTHER VIOLATIONS,249
+1,2012,OTHER VIOLATIONS,298
+1,2013,OTHER VIOLATIONS,47
+1,2014,OTHER VIOLATIONS,14
+5,2000,HARASSMENT 2,524
+5,2001,HARASSMENT 2,533
+5,2002,HARASSMENT 2,506
+5,2003,HARASSMENT 2,481
+5,2004,HARASSMENT 2,383
+5,2005,HARASSMENT 2,456
+5,2006,HARASSMENT 2,377
+5,2007,HARASSMENT 2,407
+5,2008,HARASSMENT 2,366
+5,2009,HARASSMENT 2,398
+5,2010,HARASSMENT 2,399
+5,2011,HARASSMENT 2,368
+5,2012,HARASSMENT 2,430
+5,2013,HARASSMENT 2,343
+5,2014,HARASSMENT 2,376
+5,2000,OTHER VIOLATIONS,47
+5,2001,OTHER VIOLATIONS,30
+5,2002,OTHER VIOLATIONS,92
+5,2003,OTHER VIOLATIONS,26
+5,2004,OTHER VIOLATIONS,13
+5,2005,OTHER VIOLATIONS,12
+5,2006,OTHER VIOLATIONS,17
+5,2007,OTHER VIOLATIONS,20
+5,2008,OTHER VIOLATIONS,108
+5,2009,OTHER VIOLATIONS,57
+5,2010,OTHER VIOLATIONS,32
+5,2011,OTHER VIOLATIONS,58
+5,2012,OTHER VIOLATIONS,38
+5,2013,OTHER VIOLATIONS,19
+5,2014,OTHER VIOLATIONS,8
+6,2000,HARASSMENT 2,776
+6,2001,HARASSMENT 2,752
+6,2002,HARASSMENT 2,663
+6,2003,HARASSMENT 2,527
+6,2004,HARASSMENT 2,485
+6,2005,HARASSMENT 2,433
+6,2006,HARASSMENT 2,420
+6,2007,HARASSMENT 2,408
+6,2008,HARASSMENT 2,400
+6,2009,HARASSMENT 2,393
+6,2010,HARASSMENT 2,473
+6,2011,HARASSMENT 2,412
+6,2012,HARASSMENT 2,376
+6,2013,HARASSMENT 2,364
+6,2014,HARASSMENT 2,391
+6,2000,OTHER VIOLATIONS,70
+6,2001,OTHER VIOLATIONS,62
+6,2002,OTHER VIOLATIONS,49
+6,2003,OTHER VIOLATIONS,69
+6,2004,OTHER VIOLATIONS,26
+6,2005,OTHER VIOLATIONS,113
+6,2006,OTHER VIOLATIONS,116
+6,2007,OTHER VIOLATIONS,47
+6,2008,OTHER VIOLATIONS,43
+6,2009,OTHER VIOLATIONS,42
+6,2010,OTHER VIOLATIONS,29
+6,2011,OTHER VIOLATIONS,138
+6,2012,OTHER VIOLATIONS,98
+6,2013,OTHER VIOLATIONS,69
+6,2014,OTHER VIOLATIONS,10
+7,2000,HARASSMENT 2,585
+7,2001,HARASSMENT 2,534
+7,2002,HARASSMENT 2,513
+7,2003,HARASSMENT 2,480
+7,2004,HARASSMENT 2,427
+7,2005,HARASSMENT 2,499
+7,2006,HARASSMENT 2,475
+7,2007,HARASSMENT 2,453
+7,2008,HARASSMENT 2,536
+7,2009,HARASSMENT 2,427
+7,2010,HARASSMENT 2,419
+7,2011,HARASSMENT 2,374
+7,2012,HARASSMENT 2,441
+7,2013,HARASSMENT 2,419
+7,2014,HARASSMENT 2,491
+7,2000,OTHER VIOLATIONS,9
+7,2001,OTHER VIOLATIONS,13
+7,2002,OTHER VIOLATIONS,21
+7,2003,OTHER VIOLATIONS,20
+7,2004,OTHER VIOLATIONS,13
+7,2005,OTHER VIOLATIONS,18
+7,2006,OTHER VIOLATIONS,15
+7,2007,OTHER VIOLATIONS,27
+7,2008,OTHER VIOLATIONS,35
+7,2009,OTHER VIOLATIONS,38
+7,2010,OTHER VIOLATIONS,35
+7,2011,OTHER VIOLATIONS,42
+7,2012,OTHER VIOLATIONS,46
+7,2013,OTHER VIOLATIONS,19
+7,2014,OTHER VIOLATIONS,6
+9,2000,HARASSMENT 2,948
+9,2001,HARASSMENT 2,938
+9,2002,HARASSMENT 2,892
+9,2003,HARASSMENT 2,820
+9,2004,HARASSMENT 2,761
+9,2005,HARASSMENT 2,794
+9,2006,HARASSMENT 2,689
+9,2007,HARASSMENT 2,594
+9,2008,HARASSMENT 2,649
+9,2009,HARASSMENT 2,639
+9,2010,HARASSMENT 2,612
+9,2011,HARASSMENT 2,618
+9,2012,HARASSMENT 2,608
+9,2013,HARASSMENT 2,574
+9,2014,HARASSMENT 2,565
+9,2000,OTHER VIOLATIONS,84
+9,2001,OTHER VIOLATIONS,59
+9,2002,OTHER VIOLATIONS,79
+9,2003,OTHER VIOLATIONS,44
+9,2004,OTHER VIOLATIONS,48
+9,2005,OTHER VIOLATIONS,32
+9,2006,OTHER VIOLATIONS,71
+9,2007,OTHER VIOLATIONS,46
+9,2008,OTHER VIOLATIONS,58
+9,2009,OTHER VIOLATIONS,56
+9,2010,OTHER VIOLATIONS,39
+9,2011,OTHER VIOLATIONS,44
+9,2012,OTHER VIOLATIONS,70
+9,2013,OTHER VIOLATIONS,31
+9,2014,OTHER VIOLATIONS,6
+10,2000,HARASSMENT 2,598
+10,2001,HARASSMENT 2,560
+10,2002,HARASSMENT 2,586
+10,2003,HARASSMENT 2,561
+10,2004,HARASSMENT 2,650
+10,2005,HARASSMENT 2,551
+10,2006,HARASSMENT 2,493
+10,2007,HARASSMENT 2,457
+10,2008,HARASSMENT 2,455
+10,2009,HARASSMENT 2,437
+10,2010,HARASSMENT 2,396
+10,2011,HARASSMENT 2,366
+10,2012,HARASSMENT 2,367
+10,2013,HARASSMENT 2,390
+10,2014,HARASSMENT 2,388
+10,2000,OTHER VIOLATIONS,21
+10,2001,OTHER VIOLATIONS,24
+10,2002,OTHER VIOLATIONS,17
+10,2003,OTHER VIOLATIONS,33
+10,2004,OTHER VIOLATIONS,54
+10,2005,OTHER VIOLATIONS,35
+10,2006,OTHER VIOLATIONS,31
+10,2007,OTHER VIOLATIONS,20
+10,2008,OTHER VIOLATIONS,27
+10,2009,OTHER VIOLATIONS,29
+10,2010,OTHER VIOLATIONS,25
+10,2011,OTHER VIOLATIONS,29
+10,2012,OTHER VIOLATIONS,37
+10,2013,OTHER VIOLATIONS,47
+10,2014,OTHER VIOLATIONS,8
+13,2000,HARASSMENT 2,1139
+13,2001,HARASSMENT 2,1013
+13,2002,HARASSMENT 2,1043
+13,2003,HARASSMENT 2,848
+13,2004,HARASSMENT 2,916
+13,2005,HARASSMENT 2,940
+13,2006,HARASSMENT 2,792
+13,2007,HARASSMENT 2,837
+13,2008,HARASSMENT 2,825
+13,2009,HARASSMENT 2,643
+13,2010,HARASSMENT 2,580
+13,2011,HARASSMENT 2,576
+13,2012,HARASSMENT 2,654
+13,2013,HARASSMENT 2,674
+13,2014,HARASSMENT 2,636
+13,2000,OTHER VIOLATIONS,41
+13,2001,OTHER VIOLATIONS,23
+13,2002,OTHER VIOLATIONS,49
+13,2003,OTHER VIOLATIONS,28
+13,2004,OTHER VIOLATIONS,147
+13,2005,OTHER VIOLATIONS,42
+13,2006,OTHER VIOLATIONS,90
+13,2007,OTHER VIOLATIONS,74
+13,2008,OTHER VIOLATIONS,50
+13,2009,OTHER VIOLATIONS,74
+13,2010,OTHER VIOLATIONS,86
+13,2011,OTHER VIOLATIONS,107
+13,2012,OTHER VIOLATIONS,68
+13,2013,OTHER VIOLATIONS,58
+13,2014,OTHER VIOLATIONS,28
+14,2000,HARASSMENT 2,1262
+14,2001,HARASSMENT 2,1204
+14,2002,HARASSMENT 2,972
+14,2003,HARASSMENT 2,773
+14,2004,HARASSMENT 2,757
+14,2005,HARASSMENT 2,789
+14,2006,HARASSMENT 2,765
+14,2007,HARASSMENT 2,691
+14,2008,HARASSMENT 2,650
+14,2009,HARASSMENT 2,553
+14,2010,HARASSMENT 2,531
+14,2011,HARASSMENT 2,526
+14,2012,HARASSMENT 2,584
+14,2013,HARASSMENT 2,514
+14,2014,HARASSMENT 2,606
+14,2000,OTHER VIOLATIONS,440
+14,2001,OTHER VIOLATIONS,356
+14,2002,OTHER VIOLATIONS,546
+14,2003,OTHER VIOLATIONS,524
+14,2004,OTHER VIOLATIONS,630
+14,2005,OTHER VIOLATIONS,257
+14,2006,OTHER VIOLATIONS,349
+14,2007,OTHER VIOLATIONS,402
+14,2008,OTHER VIOLATIONS,478
+14,2009,OTHER VIOLATIONS,568
+14,2010,OTHER VIOLATIONS,354
+14,2011,OTHER VIOLATIONS,229
+14,2012,OTHER VIOLATIONS,234
+14,2013,OTHER VIOLATIONS,181
+14,2014,OTHER VIOLATIONS,48
+17,2000,HARASSMENT 2,747
+17,2001,HARASSMENT 2,681
+17,2002,HARASSMENT 2,637
+17,2003,HARASSMENT 2,508
+17,2004,HARASSMENT 2,470
+17,2005,HARASSMENT 2,385
+17,2006,HARASSMENT 2,374
+17,2007,HARASSMENT 2,348
+17,2008,HARASSMENT 2,323
+17,2009,HARASSMENT 2,265
+17,2010,HARASSMENT 2,298
+17,2011,HARASSMENT 2,240
+17,2012,HARASSMENT 2,259
+17,2013,HARASSMENT 2,239
+17,2014,HARASSMENT 2,303
+17,2000,OTHER VIOLATIONS,40
+17,2001,OTHER VIOLATIONS,157
+17,2002,OTHER VIOLATIONS,58
+17,2003,OTHER VIOLATIONS,142
+17,2004,OTHER VIOLATIONS,92
+17,2005,OTHER VIOLATIONS,110
+17,2006,OTHER VIOLATIONS,163
+17,2007,OTHER VIOLATIONS,153
+17,2008,OTHER VIOLATIONS,173
+17,2009,OTHER VIOLATIONS,148
+17,2010,OTHER VIOLATIONS,95
+17,2011,OTHER VIOLATIONS,64
+17,2012,OTHER VIOLATIONS,63
+17,2013,OTHER VIOLATIONS,81
+17,2014,OTHER VIOLATIONS,6
+18,2000,HARASSMENT 2,1481
+18,2001,HARASSMENT 2,1320
+18,2002,HARASSMENT 2,1111
+18,2003,HARASSMENT 2,960
+18,2004,HARASSMENT 2,900
+18,2005,HARASSMENT 2,762
+18,2006,HARASSMENT 2,735
+18,2007,HARASSMENT 2,809
+18,2008,HARASSMENT 2,788
+18,2009,HARASSMENT 2,692
+18,2010,HARASSMENT 2,727
+18,2011,HARASSMENT 2,637
+18,2012,HARASSMENT 2,751
+18,2013,HARASSMENT 2,875
+18,2014,HARASSMENT 2,935
+18,2000,OTHER VIOLATIONS,137
+18,2001,OTHER VIOLATIONS,46
+18,2002,OTHER VIOLATIONS,54
+18,2003,OTHER VIOLATIONS,321
+18,2004,OTHER VIOLATIONS,94
+18,2005,OTHER VIOLATIONS,90
+18,2006,OTHER VIOLATIONS,102
+18,2007,OTHER VIOLATIONS,101
+18,2008,OTHER VIOLATIONS,129
+18,2009,OTHER VIOLATIONS,190
+18,2010,OTHER VIOLATIONS,171
+18,2011,OTHER VIOLATIONS,208
+18,2012,OTHER VIOLATIONS,149
+18,2013,OTHER VIOLATIONS,129
+18,2014,OTHER VIOLATIONS,21
+19,2000,HARASSMENT 2,1294
+19,2001,HARASSMENT 2,1321
+19,2002,HARASSMENT 2,1039
+19,2003,HARASSMENT 2,1052
+19,2004,HARASSMENT 2,1035
+19,2005,HARASSMENT 2,920
+19,2006,HARASSMENT 2,789
+19,2007,HARASSMENT 2,626
+19,2008,HARASSMENT 2,472
+19,2009,HARASSMENT 2,494
+19,2010,HARASSMENT 2,534
+19,2011,HARASSMENT 2,508
+19,2012,HARASSMENT 2,501
+19,2013,HARASSMENT 2,505
+19,2014,HARASSMENT 2,467
+19,2000,OTHER VIOLATIONS,26
+19,2001,OTHER VIOLATIONS,34
+19,2002,OTHER VIOLATIONS,49
+19,2003,OTHER VIOLATIONS,29
+19,2004,OTHER VIOLATIONS,24
+19,2005,OTHER VIOLATIONS,53
+19,2006,OTHER VIOLATIONS,56
+19,2007,OTHER VIOLATIONS,54
+19,2008,OTHER VIOLATIONS,53
+19,2009,OTHER VIOLATIONS,24
+19,2010,OTHER VIOLATIONS,54
+19,2011,OTHER VIOLATIONS,36
+19,2012,OTHER VIOLATIONS,43
+19,2013,OTHER VIOLATIONS,26
+19,2014,OTHER VIOLATIONS,7
+20,2000,HARASSMENT 2,817
+20,2001,HARASSMENT 2,932
+20,2002,HARASSMENT 2,651
+20,2003,HARASSMENT 2,544
+20,2004,HARASSMENT 2,471
+20,2005,HARASSMENT 2,540
+20,2006,HARASSMENT 2,491
+20,2007,HARASSMENT 2,486
+20,2008,HARASSMENT 2,483
+20,2009,HARASSMENT 2,459
+20,2010,HARASSMENT 2,503
+20,2011,HARASSMENT 2,475
+20,2012,HARASSMENT 2,486
+20,2013,HARASSMENT 2,499
+20,2014,HARASSMENT 2,530
+20,2000,OTHER VIOLATIONS,22
+20,2001,OTHER VIOLATIONS,33
+20,2002,OTHER VIOLATIONS,24
+20,2003,OTHER VIOLATIONS,8
+20,2004,OTHER VIOLATIONS,24
+20,2005,OTHER VIOLATIONS,43
+20,2006,OTHER VIOLATIONS,31
+20,2007,OTHER VIOLATIONS,21
+20,2008,OTHER VIOLATIONS,24
+20,2009,OTHER VIOLATIONS,27
+20,2010,OTHER VIOLATIONS,38
+20,2011,OTHER VIOLATIONS,39
+20,2012,OTHER VIOLATIONS,38
+20,2013,OTHER VIOLATIONS,18
+20,2014,OTHER VIOLATIONS,22
+22,2000,HARASSMENT 2,47
+22,2001,HARASSMENT 2,29
+22,2002,HARASSMENT 2,37
+22,2003,HARASSMENT 2,26
+22,2004,HARASSMENT 2,21
+22,2005,HARASSMENT 2,26
+22,2006,HARASSMENT 2,27
+22,2007,HARASSMENT 2,29
+22,2008,HARASSMENT 2,35
+22,2009,HARASSMENT 2,24
+22,2010,HARASSMENT 2,24
+22,2011,HARASSMENT 2,36
+22,2012,HARASSMENT 2,46
+22,2013,HARASSMENT 2,42
+22,2014,HARASSMENT 2,46
+22,2000,OTHER VIOLATIONS,2
+22,2001,OTHER VIOLATIONS,1
+22,2002,OTHER VIOLATIONS,2
+22,2003,OTHER VIOLATIONS,2
+22,2004,OTHER VIOLATIONS,3
+22,2005,OTHER VIOLATIONS,4
+22,2006,OTHER VIOLATIONS,5
+22,2007,OTHER VIOLATIONS,23
+22,2008,OTHER VIOLATIONS,9
+22,2009,OTHER VIOLATIONS,6
+22,2010,OTHER VIOLATIONS,10
+22,2011,OTHER VIOLATIONS,11
+22,2012,OTHER VIOLATIONS,8
+22,2013,OTHER VIOLATIONS,4
+22,2014,OTHER VIOLATIONS,2
+23,2000,HARASSMENT 2,1169
+23,2001,HARASSMENT 2,1253
+23,2002,HARASSMENT 2,1119
+23,2003,HARASSMENT 2,932
+23,2004,HARASSMENT 2,881
+23,2005,HARASSMENT 2,1037
+23,2006,HARASSMENT 2,924
+23,2007,HARASSMENT 2,920
+23,2008,HARASSMENT 2,929
+23,2009,HARASSMENT 2,978
+23,2010,HARASSMENT 2,764
+23,2011,HARASSMENT 2,771
+23,2012,HARASSMENT 2,743
+23,2013,HARASSMENT 2,790
+23,2014,HARASSMENT 2,816
+23,2000,OTHER VIOLATIONS,64
+23,2001,OTHER VIOLATIONS,48
+23,2002,OTHER VIOLATIONS,54
+23,2003,OTHER VIOLATIONS,54
+23,2004,OTHER VIOLATIONS,64
+23,2005,OTHER VIOLATIONS,86
+23,2006,OTHER VIOLATIONS,120
+23,2007,OTHER VIOLATIONS,72
+23,2008,OTHER VIOLATIONS,72
+23,2009,OTHER VIOLATIONS,124
+23,2010,OTHER VIOLATIONS,115
+23,2011,OTHER VIOLATIONS,108
+23,2012,OTHER VIOLATIONS,98
+23,2013,OTHER VIOLATIONS,65
+23,2014,OTHER VIOLATIONS,11
+24,2000,HARASSMENT 2,882
+24,2001,HARASSMENT 2,989
+24,2002,HARASSMENT 2,872
+24,2003,HARASSMENT 2,812
+24,2004,HARASSMENT 2,789
+24,2005,HARASSMENT 2,810
+24,2006,HARASSMENT 2,898
+24,2007,HARASSMENT 2,789
+24,2008,HARASSMENT 2,767
+24,2009,HARASSMENT 2,738
+24,2010,HARASSMENT 2,714
+24,2011,HARASSMENT 2,620
+24,2012,HARASSMENT 2,689
+24,2013,HARASSMENT 2,604
+24,2014,HARASSMENT 2,663
+24,2000,OTHER VIOLATIONS,17
+24,2001,OTHER VIOLATIONS,28
+24,2002,OTHER VIOLATIONS,25
+24,2003,OTHER VIOLATIONS,18
+24,2004,OTHER VIOLATIONS,21
+24,2005,OTHER VIOLATIONS,31
+24,2006,OTHER VIOLATIONS,30
+24,2007,OTHER VIOLATIONS,39
+24,2008,OTHER VIOLATIONS,43
+24,2009,OTHER VIOLATIONS,55
+24,2010,OTHER VIOLATIONS,51
+24,2011,OTHER VIOLATIONS,42
+24,2012,OTHER VIOLATIONS,47
+24,2013,OTHER VIOLATIONS,18
+24,2014,OTHER VIOLATIONS,7
+25,2000,HARASSMENT 2,1033
+25,2001,HARASSMENT 2,1123
+25,2002,HARASSMENT 2,1088
+25,2003,HARASSMENT 2,981
+25,2004,HARASSMENT 2,894
+25,2005,HARASSMENT 2,943
+25,2006,HARASSMENT 2,859
+25,2007,HARASSMENT 2,870
+25,2008,HARASSMENT 2,777
+25,2009,HARASSMENT 2,787
+25,2010,HARASSMENT 2,694
+25,2011,HARASSMENT 2,607
+25,2012,HARASSMENT 2,653
+25,2013,HARASSMENT 2,664
+25,2014,HARASSMENT 2,625
+25,2000,OTHER VIOLATIONS,33
+25,2001,OTHER VIOLATIONS,87
+25,2002,OTHER VIOLATIONS,76
+25,2003,OTHER VIOLATIONS,46
+25,2004,OTHER VIOLATIONS,52
+25,2005,OTHER VIOLATIONS,63
+25,2006,OTHER VIOLATIONS,49
+25,2007,OTHER VIOLATIONS,67
+25,2008,OTHER VIOLATIONS,121
+25,2009,OTHER VIOLATIONS,127
+25,2010,OTHER VIOLATIONS,165
+25,2011,OTHER VIOLATIONS,101
+25,2012,OTHER VIOLATIONS,82
+25,2013,OTHER VIOLATIONS,85
+25,2014,OTHER VIOLATIONS,25
+26,2000,HARASSMENT 2,574
+26,2001,HARASSMENT 2,588
+26,2002,HARASSMENT 2,524
+26,2003,HARASSMENT 2,445
+26,2004,HARASSMENT 2,409
+26,2005,HARASSMENT 2,434
+26,2006,HARASSMENT 2,472
+26,2007,HARASSMENT 2,460
+26,2008,HARASSMENT 2,361
+26,2009,HARASSMENT 2,401
+26,2010,HARASSMENT 2,373
+26,2011,HARASSMENT 2,336
+26,2012,HARASSMENT 2,350
+26,2013,HARASSMENT 2,329
+26,2014,HARASSMENT 2,381
+26,2000,OTHER VIOLATIONS,37
+26,2001,OTHER VIOLATIONS,34
+26,2002,OTHER VIOLATIONS,44
+26,2003,OTHER VIOLATIONS,29
+26,2004,OTHER VIOLATIONS,45
+26,2005,OTHER VIOLATIONS,35
+26,2006,OTHER VIOLATIONS,27
+26,2007,OTHER VIOLATIONS,41
+26,2008,OTHER VIOLATIONS,36
+26,2009,OTHER VIOLATIONS,56
+26,2010,OTHER VIOLATIONS,33
+26,2011,OTHER VIOLATIONS,56
+26,2012,OTHER VIOLATIONS,56
+26,2013,OTHER VIOLATIONS,42
+26,2014,OTHER VIOLATIONS,11
+28,2000,HARASSMENT 2,1056
+28,2001,HARASSMENT 2,1209
+28,2002,HARASSMENT 2,1043
+28,2003,HARASSMENT 2,906
+28,2004,HARASSMENT 2,836
+28,2005,HARASSMENT 2,837
+28,2006,HARASSMENT 2,761
+28,2007,HARASSMENT 2,760
+28,2008,HARASSMENT 2,678
+28,2009,HARASSMENT 2,658
+28,2010,HARASSMENT 2,628
+28,2011,HARASSMENT 2,475
+28,2012,HARASSMENT 2,563
+28,2013,HARASSMENT 2,534
+28,2014,HARASSMENT 2,626
+28,2000,OTHER VIOLATIONS,28
+28,2001,OTHER VIOLATIONS,27
+28,2002,OTHER VIOLATIONS,48
+28,2003,OTHER VIOLATIONS,27
+28,2004,OTHER VIOLATIONS,40
+28,2005,OTHER VIOLATIONS,41
+28,2006,OTHER VIOLATIONS,90
+28,2007,OTHER VIOLATIONS,59
+28,2008,OTHER VIOLATIONS,58
+28,2009,OTHER VIOLATIONS,101
+28,2010,OTHER VIOLATIONS,71
+28,2011,OTHER VIOLATIONS,96
+28,2012,OTHER VIOLATIONS,73
+28,2013,OTHER VIOLATIONS,35
+28,2014,OTHER VIOLATIONS,14
+30,2000,HARASSMENT 2,993
+30,2001,HARASSMENT 2,1028
+30,2002,HARASSMENT 2,891
+30,2003,HARASSMENT 2,858
+30,2004,HARASSMENT 2,795
+30,2005,HARASSMENT 2,778
+30,2006,HARASSMENT 2,654
+30,2007,HARASSMENT 2,573
+30,2008,HARASSMENT 2,571
+30,2009,HARASSMENT 2,549
+30,2010,HARASSMENT 2,526
+30,2011,HARASSMENT 2,536
+30,2012,HARASSMENT 2,653
+30,2013,HARASSMENT 2,570
+30,2014,HARASSMENT 2,615
+30,2000,OTHER VIOLATIONS,63
+30,2001,OTHER VIOLATIONS,73
+30,2002,OTHER VIOLATIONS,56
+30,2003,OTHER VIOLATIONS,33
+30,2004,OTHER VIOLATIONS,28
+30,2005,OTHER VIOLATIONS,57
+30,2006,OTHER VIOLATIONS,41
+30,2007,OTHER VIOLATIONS,59
+30,2008,OTHER VIOLATIONS,34
+30,2009,OTHER VIOLATIONS,80
+30,2010,OTHER VIOLATIONS,71
+30,2011,OTHER VIOLATIONS,57
+30,2012,OTHER VIOLATIONS,31
+30,2013,OTHER VIOLATIONS,47
+30,2014,OTHER VIOLATIONS,12
+32,2000,HARASSMENT 2,1299
+32,2001,HARASSMENT 2,1447
+32,2002,HARASSMENT 2,1117
+32,2003,HARASSMENT 2,1066
+32,2004,HARASSMENT 2,1122
+32,2005,HARASSMENT 2,1067
+32,2006,HARASSMENT 2,856
+32,2007,HARASSMENT 2,1011
+32,2008,HARASSMENT 2,941
+32,2009,HARASSMENT 2,1033
+32,2010,HARASSMENT 2,1018
+32,2011,HARASSMENT 2,952
+32,2012,HARASSMENT 2,925
+32,2013,HARASSMENT 2,898
+32,2014,HARASSMENT 2,923
+32,2000,OTHER VIOLATIONS,56
+32,2001,OTHER VIOLATIONS,37
+32,2002,OTHER VIOLATIONS,35
+32,2003,OTHER VIOLATIONS,37
+32,2004,OTHER VIOLATIONS,50
+32,2005,OTHER VIOLATIONS,70
+32,2006,OTHER VIOLATIONS,81
+32,2007,OTHER VIOLATIONS,113
+32,2008,OTHER VIOLATIONS,191
+32,2009,OTHER VIOLATIONS,313
+32,2010,OTHER VIOLATIONS,176
+32,2011,OTHER VIOLATIONS,232
+32,2012,OTHER VIOLATIONS,104
+32,2013,OTHER VIOLATIONS,62
+32,2014,OTHER VIOLATIONS,21
+33,2000,HARASSMENT 2,860
+33,2001,HARASSMENT 2,878
+33,2002,HARASSMENT 2,786
+33,2003,HARASSMENT 2,744
+33,2004,HARASSMENT 2,650
+33,2005,HARASSMENT 2,687
+33,2006,HARASSMENT 2,634
+33,2007,HARASSMENT 2,582
+33,2008,HARASSMENT 2,484
+33,2009,HARASSMENT 2,474
+33,2010,HARASSMENT 2,494
+33,2011,HARASSMENT 2,497
+33,2012,HARASSMENT 2,473
+33,2013,HARASSMENT 2,470
+33,2014,HARASSMENT 2,445
+33,2000,OTHER VIOLATIONS,31
+33,2001,OTHER VIOLATIONS,41
+33,2002,OTHER VIOLATIONS,41
+33,2003,OTHER VIOLATIONS,54
+33,2004,OTHER VIOLATIONS,55
+33,2005,OTHER VIOLATIONS,35
+33,2006,OTHER VIOLATIONS,57
+33,2007,OTHER VIOLATIONS,81
+33,2008,OTHER VIOLATIONS,63
+33,2009,OTHER VIOLATIONS,90
+33,2010,OTHER VIOLATIONS,105
+33,2011,OTHER VIOLATIONS,95
+33,2012,OTHER VIOLATIONS,60
+33,2013,OTHER VIOLATIONS,60
+33,2014,OTHER VIOLATIONS,11
+34,2000,HARASSMENT 2,1171
+34,2001,HARASSMENT 2,1262
+34,2002,HARASSMENT 2,1030
+34,2003,HARASSMENT 2,727
+34,2004,HARASSMENT 2,847
+34,2005,HARASSMENT 2,659
+34,2006,HARASSMENT 2,587
+34,2007,HARASSMENT 2,568
+34,2008,HARASSMENT 2,481
+34,2009,HARASSMENT 2,452
+34,2010,HARASSMENT 2,510
+34,2011,HARASSMENT 2,568
+34,2012,HARASSMENT 2,528
+34,2013,HARASSMENT 2,485
+34,2014,HARASSMENT 2,690
+34,2000,OTHER VIOLATIONS,27
+34,2001,OTHER VIOLATIONS,37
+34,2002,OTHER VIOLATIONS,33
+34,2003,OTHER VIOLATIONS,32
+34,2004,OTHER VIOLATIONS,25
+34,2005,OTHER VIOLATIONS,34
+34,2006,OTHER VIOLATIONS,43
+34,2007,OTHER VIOLATIONS,42
+34,2008,OTHER VIOLATIONS,44
+34,2009,OTHER VIOLATIONS,39
+34,2010,OTHER VIOLATIONS,36
+34,2011,OTHER VIOLATIONS,44
+34,2012,OTHER VIOLATIONS,65
+34,2013,OTHER VIOLATIONS,37
+34,2014,OTHER VIOLATIONS,13
+40,2000,HARASSMENT 2,2210
+40,2001,HARASSMENT 2,2393
+40,2002,HARASSMENT 2,2060
+40,2003,HARASSMENT 2,1884
+40,2004,HARASSMENT 2,1848
+40,2005,HARASSMENT 2,1802
+40,2006,HARASSMENT 2,1540
+40,2007,HARASSMENT 2,1659
+40,2008,HARASSMENT 2,1558
+40,2009,HARASSMENT 2,1561
+40,2010,HARASSMENT 2,1488
+40,2011,HARASSMENT 2,1342
+40,2012,HARASSMENT 2,1364
+40,2013,HARASSMENT 2,1282
+40,2014,HARASSMENT 2,1356
+40,2000,OTHER VIOLATIONS,119
+40,2001,OTHER VIOLATIONS,75
+40,2002,OTHER VIOLATIONS,81
+40,2003,OTHER VIOLATIONS,96
+40,2004,OTHER VIOLATIONS,63
+40,2005,OTHER VIOLATIONS,91
+40,2006,OTHER VIOLATIONS,60
+40,2007,OTHER VIOLATIONS,50
+40,2008,OTHER VIOLATIONS,49
+40,2009,OTHER VIOLATIONS,50
+40,2010,OTHER VIOLATIONS,62
+40,2011,OTHER VIOLATIONS,46
+40,2012,OTHER VIOLATIONS,48
+40,2013,OTHER VIOLATIONS,35
+40,2014,OTHER VIOLATIONS,20
+41,2000,HARASSMENT 2,1101
+41,2001,HARASSMENT 2,1276
+41,2002,HARASSMENT 2,1186
+41,2003,HARASSMENT 2,1107
+41,2004,HARASSMENT 2,1028
+41,2005,HARASSMENT 2,1011
+41,2006,HARASSMENT 2,913
+41,2007,HARASSMENT 2,927
+41,2008,HARASSMENT 2,874
+41,2009,HARASSMENT 2,810
+41,2010,HARASSMENT 2,741
+41,2011,HARASSMENT 2,715
+41,2012,HARASSMENT 2,808
+41,2013,HARASSMENT 2,909
+41,2014,HARASSMENT 2,922
+41,2000,OTHER VIOLATIONS,28
+41,2001,OTHER VIOLATIONS,26
+41,2002,OTHER VIOLATIONS,13
+41,2003,OTHER VIOLATIONS,21
+41,2004,OTHER VIOLATIONS,35
+41,2005,OTHER VIOLATIONS,29
+41,2006,OTHER VIOLATIONS,34
+41,2007,OTHER VIOLATIONS,45
+41,2008,OTHER VIOLATIONS,40
+41,2009,OTHER VIOLATIONS,30
+41,2010,OTHER VIOLATIONS,20
+41,2011,OTHER VIOLATIONS,31
+41,2012,OTHER VIOLATIONS,14
+41,2013,OTHER VIOLATIONS,20
+41,2014,OTHER VIOLATIONS,10
+42,2000,HARASSMENT 2,2026
+42,2001,HARASSMENT 2,1741
+42,2002,HARASSMENT 2,1566
+42,2003,HARASSMENT 2,1557
+42,2004,HARASSMENT 2,1471
+42,2005,HARASSMENT 2,1376
+42,2006,HARASSMENT 2,1260
+42,2007,HARASSMENT 2,1215
+42,2008,HARASSMENT 2,922
+42,2009,HARASSMENT 2,865
+42,2010,HARASSMENT 2,812
+42,2011,HARASSMENT 2,810
+42,2012,HARASSMENT 2,906
+42,2013,HARASSMENT 2,912
+42,2014,HARASSMENT 2,1086
+42,2000,OTHER VIOLATIONS,43
+42,2001,OTHER VIOLATIONS,45
+42,2002,OTHER VIOLATIONS,30
+42,2003,OTHER VIOLATIONS,37
+42,2004,OTHER VIOLATIONS,32
+42,2005,OTHER VIOLATIONS,30
+42,2006,OTHER VIOLATIONS,26
+42,2007,OTHER VIOLATIONS,22
+42,2008,OTHER VIOLATIONS,7
+42,2009,OTHER VIOLATIONS,20
+42,2010,OTHER VIOLATIONS,18
+42,2011,OTHER VIOLATIONS,15
+42,2012,OTHER VIOLATIONS,21
+42,2013,OTHER VIOLATIONS,11
+42,2014,OTHER VIOLATIONS,13
+43,2000,HARASSMENT 2,2877
+43,2001,HARASSMENT 2,2932
+43,2002,HARASSMENT 2,2656
+43,2003,HARASSMENT 2,2394
+43,2004,HARASSMENT 2,2238
+43,2005,HARASSMENT 2,2164
+43,2006,HARASSMENT 2,1873
+43,2007,HARASSMENT 2,1659
+43,2008,HARASSMENT 2,1603
+43,2009,HARASSMENT 2,1543
+43,2010,HARASSMENT 2,1530
+43,2011,HARASSMENT 2,1561
+43,2012,HARASSMENT 2,1549
+43,2013,HARASSMENT 2,1575
+43,2014,HARASSMENT 2,1564
+43,2000,OTHER VIOLATIONS,66
+43,2001,OTHER VIOLATIONS,32
+43,2002,OTHER VIOLATIONS,23
+43,2003,OTHER VIOLATIONS,39
+43,2004,OTHER VIOLATIONS,54
+43,2005,OTHER VIOLATIONS,55
+43,2006,OTHER VIOLATIONS,55
+43,2007,OTHER VIOLATIONS,49
+43,2008,OTHER VIOLATIONS,42
+43,2009,OTHER VIOLATIONS,46
+43,2010,OTHER VIOLATIONS,38
+43,2011,OTHER VIOLATIONS,69
+43,2012,OTHER VIOLATIONS,51
+43,2013,OTHER VIOLATIONS,52
+43,2014,OTHER VIOLATIONS,31
+44,2000,HARASSMENT 2,3194
+44,2001,HARASSMENT 2,3156
+44,2002,HARASSMENT 2,2349
+44,2003,HARASSMENT 2,2295
+44,2004,HARASSMENT 2,1937
+44,2005,HARASSMENT 2,1587
+44,2006,HARASSMENT 2,1557
+44,2007,HARASSMENT 2,1141
+44,2008,HARASSMENT 2,1055
+44,2009,HARASSMENT 2,1149
+44,2010,HARASSMENT 2,1108
+44,2011,HARASSMENT 2,1072
+44,2012,HARASSMENT 2,1213
+44,2013,HARASSMENT 2,1318
+44,2014,HARASSMENT 2,1250
+44,2000,OTHER VIOLATIONS,92
+44,2001,OTHER VIOLATIONS,55
+44,2002,OTHER VIOLATIONS,72
+44,2003,OTHER VIOLATIONS,72
+44,2004,OTHER VIOLATIONS,36
+44,2005,OTHER VIOLATIONS,53
+44,2006,OTHER VIOLATIONS,62
+44,2007,OTHER VIOLATIONS,49
+44,2008,OTHER VIOLATIONS,33
+44,2009,OTHER VIOLATIONS,56
+44,2010,OTHER VIOLATIONS,81
+44,2011,OTHER VIOLATIONS,51
+44,2012,OTHER VIOLATIONS,35
+44,2013,OTHER VIOLATIONS,32
+44,2014,OTHER VIOLATIONS,12
+45,2000,HARASSMENT 2,1642
+45,2001,HARASSMENT 2,1588
+45,2002,HARASSMENT 2,1398
+45,2003,HARASSMENT 2,1351
+45,2004,HARASSMENT 2,1321
+45,2005,HARASSMENT 2,1153
+45,2006,HARASSMENT 2,1084
+45,2007,HARASSMENT 2,1033
+45,2008,HARASSMENT 2,886
+45,2009,HARASSMENT 2,926
+45,2010,HARASSMENT 2,966
+45,2011,HARASSMENT 2,857
+45,2012,HARASSMENT 2,806
+45,2013,HARASSMENT 2,845
+45,2014,HARASSMENT 2,1004
+45,2000,OTHER VIOLATIONS,43
+45,2001,OTHER VIOLATIONS,21
+45,2002,OTHER VIOLATIONS,16
+45,2003,OTHER VIOLATIONS,13
+45,2004,OTHER VIOLATIONS,18
+45,2005,OTHER VIOLATIONS,30
+45,2006,OTHER VIOLATIONS,37
+45,2007,OTHER VIOLATIONS,16
+45,2008,OTHER VIOLATIONS,27
+45,2009,OTHER VIOLATIONS,31
+45,2010,OTHER VIOLATIONS,19
+45,2011,OTHER VIOLATIONS,8
+45,2012,OTHER VIOLATIONS,11
+45,2013,OTHER VIOLATIONS,10
+45,2014,OTHER VIOLATIONS,12
+46,2000,HARASSMENT 2,2418
+46,2001,HARASSMENT 2,2335
+46,2002,HARASSMENT 2,1817
+46,2003,HARASSMENT 2,2029
+46,2004,HARASSMENT 2,1918
+46,2005,HARASSMENT 2,1592
+46,2006,HARASSMENT 2,1601
+46,2007,HARASSMENT 2,1525
+46,2008,HARASSMENT 2,1274
+46,2009,HARASSMENT 2,1305
+46,2010,HARASSMENT 2,1385
+46,2011,HARASSMENT 2,1177
+46,2012,HARASSMENT 2,1239
+46,2013,HARASSMENT 2,1262
+46,2014,HARASSMENT 2,1215
+46,2000,OTHER VIOLATIONS,60
+46,2001,OTHER VIOLATIONS,63
+46,2002,OTHER VIOLATIONS,39
+46,2003,OTHER VIOLATIONS,42
+46,2004,OTHER VIOLATIONS,52
+46,2005,OTHER VIOLATIONS,53
+46,2006,OTHER VIOLATIONS,39
+46,2007,OTHER VIOLATIONS,26
+46,2008,OTHER VIOLATIONS,14
+46,2009,OTHER VIOLATIONS,32
+46,2010,OTHER VIOLATIONS,23
+46,2011,OTHER VIOLATIONS,48
+46,2012,OTHER VIOLATIONS,54
+46,2013,OTHER VIOLATIONS,21
+46,2014,OTHER VIOLATIONS,6
+47,2000,HARASSMENT 2,2496
+47,2001,HARASSMENT 2,2348
+47,2002,HARASSMENT 2,2245
+47,2003,HARASSMENT 2,1789
+47,2004,HARASSMENT 2,1854
+47,2005,HARASSMENT 2,1665
+47,2006,HARASSMENT 2,1289
+47,2007,HARASSMENT 2,1234
+47,2008,HARASSMENT 2,1094
+47,2009,HARASSMENT 2,1014
+47,2010,HARASSMENT 2,936
+47,2011,HARASSMENT 2,872
+47,2012,HARASSMENT 2,1084
+47,2013,HARASSMENT 2,1044
+47,2014,HARASSMENT 2,1135
+47,2000,OTHER VIOLATIONS,74
+47,2001,OTHER VIOLATIONS,63
+47,2002,OTHER VIOLATIONS,45
+47,2003,OTHER VIOLATIONS,50
+47,2004,OTHER VIOLATIONS,46
+47,2005,OTHER VIOLATIONS,43
+47,2006,OTHER VIOLATIONS,33
+47,2007,OTHER VIOLATIONS,24
+47,2008,OTHER VIOLATIONS,36
+47,2009,OTHER VIOLATIONS,44
+47,2010,OTHER VIOLATIONS,29
+47,2011,OTHER VIOLATIONS,20
+47,2012,OTHER VIOLATIONS,22
+47,2013,OTHER VIOLATIONS,21
+47,2014,OTHER VIOLATIONS,21
+48,2000,HARASSMENT 2,1785
+48,2001,HARASSMENT 2,1731
+48,2002,HARASSMENT 2,1432
+48,2003,HARASSMENT 2,1215
+48,2004,HARASSMENT 2,1055
+48,2005,HARASSMENT 2,1010
+48,2006,HARASSMENT 2,971
+48,2007,HARASSMENT 2,922
+48,2008,HARASSMENT 2,660
+48,2009,HARASSMENT 2,689
+48,2010,HARASSMENT 2,738
+48,2011,HARASSMENT 2,670
+48,2012,HARASSMENT 2,816
+48,2013,HARASSMENT 2,840
+48,2014,HARASSMENT 2,909
+48,2000,OTHER VIOLATIONS,21
+48,2001,OTHER VIOLATIONS,24
+48,2002,OTHER VIOLATIONS,68
+48,2003,OTHER VIOLATIONS,86
+48,2004,OTHER VIOLATIONS,160
+48,2005,OTHER VIOLATIONS,26
+48,2006,OTHER VIOLATIONS,29
+48,2007,OTHER VIOLATIONS,48
+48,2008,OTHER VIOLATIONS,35
+48,2009,OTHER VIOLATIONS,67
+48,2010,OTHER VIOLATIONS,31
+48,2011,OTHER VIOLATIONS,21
+48,2012,OTHER VIOLATIONS,17
+48,2013,OTHER VIOLATIONS,13
+48,2014,OTHER VIOLATIONS,7
+49,2000,HARASSMENT 2,1550
+49,2001,HARASSMENT 2,1722
+49,2002,HARASSMENT 2,1717
+49,2003,HARASSMENT 2,1482
+49,2004,HARASSMENT 2,1293
+49,2005,HARASSMENT 2,1066
+49,2006,HARASSMENT 2,1196
+49,2007,HARASSMENT 2,1248
+49,2008,HARASSMENT 2,1044
+49,2009,HARASSMENT 2,924
+49,2010,HARASSMENT 2,947
+49,2011,HARASSMENT 2,929
+49,2012,HARASSMENT 2,752
+49,2013,HARASSMENT 2,797
+49,2014,HARASSMENT 2,769
+49,2000,OTHER VIOLATIONS,28
+49,2001,OTHER VIOLATIONS,78
+49,2002,OTHER VIOLATIONS,56
+49,2003,OTHER VIOLATIONS,31
+49,2004,OTHER VIOLATIONS,34
+49,2005,OTHER VIOLATIONS,31
+49,2006,OTHER VIOLATIONS,42
+49,2007,OTHER VIOLATIONS,24
+49,2008,OTHER VIOLATIONS,31
+49,2009,OTHER VIOLATIONS,14
+49,2010,OTHER VIOLATIONS,24
+49,2011,OTHER VIOLATIONS,7
+49,2012,OTHER VIOLATIONS,13
+49,2013,OTHER VIOLATIONS,17
+49,2014,OTHER VIOLATIONS,11
+50,2000,HARASSMENT 2,1100
+50,2001,HARASSMENT 2,1022
+50,2002,HARASSMENT 2,930
+50,2003,HARASSMENT 2,732
+50,2004,HARASSMENT 2,728
+50,2005,HARASSMENT 2,856
+50,2006,HARASSMENT 2,699
+50,2007,HARASSMENT 2,736
+50,2008,HARASSMENT 2,771
+50,2009,HARASSMENT 2,642
+50,2010,HARASSMENT 2,633
+50,2011,HARASSMENT 2,505
+50,2012,HARASSMENT 2,471
+50,2013,HARASSMENT 2,530
+50,2014,HARASSMENT 2,516
+50,2000,OTHER VIOLATIONS,21
+50,2001,OTHER VIOLATIONS,17
+50,2002,OTHER VIOLATIONS,20
+50,2003,OTHER VIOLATIONS,20
+50,2004,OTHER VIOLATIONS,12
+50,2005,OTHER VIOLATIONS,4
+50,2006,OTHER VIOLATIONS,12
+50,2007,OTHER VIOLATIONS,7
+50,2008,OTHER VIOLATIONS,10
+50,2009,OTHER VIOLATIONS,7
+50,2010,OTHER VIOLATIONS,8
+50,2011,OTHER VIOLATIONS,15
+50,2012,OTHER VIOLATIONS,11
+50,2013,OTHER VIOLATIONS,4
+50,2014,OTHER VIOLATIONS,6
+52,2000,HARASSMENT 2,2126
+52,2001,HARASSMENT 2,2297
+52,2002,HARASSMENT 2,2202
+52,2003,HARASSMENT 2,1979
+52,2004,HARASSMENT 2,1776
+52,2005,HARASSMENT 2,1662
+52,2006,HARASSMENT 2,1436
+52,2007,HARASSMENT 2,1282
+52,2008,HARASSMENT 2,1143
+52,2009,HARASSMENT 2,1000
+52,2010,HARASSMENT 2,938
+52,2011,HARASSMENT 2,1052
+52,2012,HARASSMENT 2,1029
+52,2013,HARASSMENT 2,1004
+52,2014,HARASSMENT 2,1141
+52,2000,OTHER VIOLATIONS,120
+52,2001,OTHER VIOLATIONS,56
+52,2002,OTHER VIOLATIONS,80
+52,2003,OTHER VIOLATIONS,64
+52,2004,OTHER VIOLATIONS,81
+52,2005,OTHER VIOLATIONS,43
+52,2006,OTHER VIOLATIONS,42
+52,2007,OTHER VIOLATIONS,38
+52,2008,OTHER VIOLATIONS,21
+52,2009,OTHER VIOLATIONS,36
+52,2010,OTHER VIOLATIONS,20
+52,2011,OTHER VIOLATIONS,42
+52,2012,OTHER VIOLATIONS,12
+52,2013,OTHER VIOLATIONS,20
+52,2014,OTHER VIOLATIONS,19
+60,2000,HARASSMENT 2,1142
+60,2001,HARASSMENT 2,1098
+60,2002,HARASSMENT 2,961
+60,2003,HARASSMENT 2,988
+60,2004,HARASSMENT 2,943
+60,2005,HARASSMENT 2,878
+60,2006,HARASSMENT 2,1020
+60,2007,HARASSMENT 2,824
+60,2008,HARASSMENT 2,789
+60,2009,HARASSMENT 2,746
+60,2010,HARASSMENT 2,676
+60,2011,HARASSMENT 2,709
+60,2012,HARASSMENT 2,645
+60,2013,HARASSMENT 2,667
+60,2014,HARASSMENT 2,835
+60,2000,OTHER VIOLATIONS,29
+60,2001,OTHER VIOLATIONS,32
+60,2002,OTHER VIOLATIONS,16
+60,2003,OTHER VIOLATIONS,27
+60,2004,OTHER VIOLATIONS,18
+60,2005,OTHER VIOLATIONS,30
+60,2006,OTHER VIOLATIONS,42
+60,2007,OTHER VIOLATIONS,32
+60,2008,OTHER VIOLATIONS,35
+60,2009,OTHER VIOLATIONS,62
+60,2010,OTHER VIOLATIONS,54
+60,2011,OTHER VIOLATIONS,42
+60,2012,OTHER VIOLATIONS,33
+60,2013,OTHER VIOLATIONS,27
+60,2014,OTHER VIOLATIONS,6
+61,2000,HARASSMENT 2,1417
+61,2001,HARASSMENT 2,1530
+61,2002,HARASSMENT 2,1247
+61,2003,HARASSMENT 2,1241
+61,2004,HARASSMENT 2,1234
+61,2005,HARASSMENT 2,1220
+61,2006,HARASSMENT 2,1127
+61,2007,HARASSMENT 2,1008
+61,2008,HARASSMENT 2,882
+61,2009,HARASSMENT 2,851
+61,2010,HARASSMENT 2,769
+61,2011,HARASSMENT 2,610
+61,2012,HARASSMENT 2,697
+61,2013,HARASSMENT 2,632
+61,2014,HARASSMENT 2,654
+61,2000,OTHER VIOLATIONS,20
+61,2001,OTHER VIOLATIONS,31
+61,2002,OTHER VIOLATIONS,17
+61,2003,OTHER VIOLATIONS,21
+61,2004,OTHER VIOLATIONS,25
+61,2005,OTHER VIOLATIONS,20
+61,2006,OTHER VIOLATIONS,22
+61,2007,OTHER VIOLATIONS,31
+61,2008,OTHER VIOLATIONS,19
+61,2009,OTHER VIOLATIONS,31
+61,2010,OTHER VIOLATIONS,18
+61,2011,OTHER VIOLATIONS,23
+61,2012,OTHER VIOLATIONS,20
+61,2013,OTHER VIOLATIONS,12
+61,2014,OTHER VIOLATIONS,15
+62,2000,HARASSMENT 2,1453
+62,2001,HARASSMENT 2,1340
+62,2002,HARASSMENT 2,1024
+62,2003,HARASSMENT 2,952
+62,2004,HARASSMENT 2,859
+62,2005,HARASSMENT 2,1067
+62,2006,HARASSMENT 2,1090
+62,2007,HARASSMENT 2,977
+62,2008,HARASSMENT 2,855
+62,2009,HARASSMENT 2,776
+62,2010,HARASSMENT 2,797
+62,2011,HARASSMENT 2,767
+62,2012,HARASSMENT 2,819
+62,2013,HARASSMENT 2,818
+62,2014,HARASSMENT 2,925
+62,2000,OTHER VIOLATIONS,20
+62,2001,OTHER VIOLATIONS,12
+62,2002,OTHER VIOLATIONS,44
+62,2003,OTHER VIOLATIONS,26
+62,2004,OTHER VIOLATIONS,11
+62,2005,OTHER VIOLATIONS,15
+62,2006,OTHER VIOLATIONS,25
+62,2007,OTHER VIOLATIONS,16
+62,2008,OTHER VIOLATIONS,17
+62,2009,OTHER VIOLATIONS,21
+62,2010,OTHER VIOLATIONS,14
+62,2011,OTHER VIOLATIONS,14
+62,2012,OTHER VIOLATIONS,10
+62,2013,OTHER VIOLATIONS,22
+62,2014,OTHER VIOLATIONS,11
+63,2000,HARASSMENT 2,1214
+63,2001,HARASSMENT 2,1317
+63,2002,HARASSMENT 2,1074
+63,2003,HARASSMENT 2,1091
+63,2004,HARASSMENT 2,1098
+63,2005,HARASSMENT 2,1070
+63,2006,HARASSMENT 2,968
+63,2007,HARASSMENT 2,848
+63,2008,HARASSMENT 2,767
+63,2009,HARASSMENT 2,739
+63,2010,HARASSMENT 2,696
+63,2011,HARASSMENT 2,534
+63,2012,HARASSMENT 2,506
+63,2013,HARASSMENT 2,515
+63,2014,HARASSMENT 2,582
+63,2000,OTHER VIOLATIONS,9
+63,2001,OTHER VIOLATIONS,14
+63,2002,OTHER VIOLATIONS,5
+63,2003,OTHER VIOLATIONS,9
+63,2004,OTHER VIOLATIONS,10
+63,2005,OTHER VIOLATIONS,15
+63,2006,OTHER VIOLATIONS,27
+63,2007,OTHER VIOLATIONS,35
+63,2008,OTHER VIOLATIONS,8
+63,2009,OTHER VIOLATIONS,7
+63,2010,OTHER VIOLATIONS,15
+63,2011,OTHER VIOLATIONS,58
+63,2012,OTHER VIOLATIONS,16
+63,2013,OTHER VIOLATIONS,20
+63,2014,OTHER VIOLATIONS,6
+66,2000,HARASSMENT 2,1110
+66,2001,HARASSMENT 2,1065
+66,2002,HARASSMENT 2,755
+66,2003,HARASSMENT 2,760
+66,2004,HARASSMENT 2,654
+66,2005,HARASSMENT 2,755
+66,2006,HARASSMENT 2,730
+66,2007,HARASSMENT 2,685
+66,2008,HARASSMENT 2,622
+66,2009,HARASSMENT 2,633
+66,2010,HARASSMENT 2,593
+66,2011,HARASSMENT 2,640
+66,2012,HARASSMENT 2,651
+66,2013,HARASSMENT 2,574
+66,2014,HARASSMENT 2,524
+66,2000,OTHER VIOLATIONS,5
+66,2001,OTHER VIOLATIONS,10
+66,2002,OTHER VIOLATIONS,11
+66,2003,OTHER VIOLATIONS,9
+66,2004,OTHER VIOLATIONS,15
+66,2005,OTHER VIOLATIONS,27
+66,2006,OTHER VIOLATIONS,21
+66,2007,OTHER VIOLATIONS,34
+66,2008,OTHER VIOLATIONS,17
+66,2009,OTHER VIOLATIONS,18
+66,2010,OTHER VIOLATIONS,11
+66,2011,OTHER VIOLATIONS,15
+66,2012,OTHER VIOLATIONS,8
+66,2013,OTHER VIOLATIONS,13
+66,2014,OTHER VIOLATIONS,5
+67,2000,HARASSMENT 2,2300
+67,2001,HARASSMENT 2,2429
+67,2002,HARASSMENT 2,1945
+67,2003,HARASSMENT 2,1805
+67,2004,HARASSMENT 2,1575
+67,2005,HARASSMENT 2,1312
+67,2006,HARASSMENT 2,1182
+67,2007,HARASSMENT 2,926
+67,2008,HARASSMENT 2,969
+67,2009,HARASSMENT 2,964
+67,2010,HARASSMENT 2,1076
+67,2011,HARASSMENT 2,1032
+67,2012,HARASSMENT 2,1084
+67,2013,HARASSMENT 2,1233
+67,2014,HARASSMENT 2,1638
+67,2000,OTHER VIOLATIONS,47
+67,2001,OTHER VIOLATIONS,84
+67,2002,OTHER VIOLATIONS,54
+67,2003,OTHER VIOLATIONS,40
+67,2004,OTHER VIOLATIONS,52
+67,2005,OTHER VIOLATIONS,41
+67,2006,OTHER VIOLATIONS,83
+67,2007,OTHER VIOLATIONS,60
+67,2008,OTHER VIOLATIONS,50
+67,2009,OTHER VIOLATIONS,61
+67,2010,OTHER VIOLATIONS,57
+67,2011,OTHER VIOLATIONS,60
+67,2012,OTHER VIOLATIONS,50
+67,2013,OTHER VIOLATIONS,61
+67,2014,OTHER VIOLATIONS,16
+68,2000,HARASSMENT 2,1101
+68,2001,HARASSMENT 2,1237
+68,2002,HARASSMENT 2,916
+68,2003,HARASSMENT 2,971
+68,2004,HARASSMENT 2,870
+68,2005,HARASSMENT 2,883
+68,2006,HARASSMENT 2,815
+68,2007,HARASSMENT 2,764
+68,2008,HARASSMENT 2,823
+68,2009,HARASSMENT 2,733
+68,2010,HARASSMENT 2,681
+68,2011,HARASSMENT 2,708
+68,2012,HARASSMENT 2,720
+68,2013,HARASSMENT 2,748
+68,2014,HARASSMENT 2,616
+68,2000,OTHER VIOLATIONS,18
+68,2001,OTHER VIOLATIONS,18
+68,2002,OTHER VIOLATIONS,14
+68,2003,OTHER VIOLATIONS,7
+68,2004,OTHER VIOLATIONS,11
+68,2005,OTHER VIOLATIONS,13
+68,2006,OTHER VIOLATIONS,23
+68,2007,OTHER VIOLATIONS,18
+68,2008,OTHER VIOLATIONS,26
+68,2009,OTHER VIOLATIONS,17
+68,2010,OTHER VIOLATIONS,13
+68,2011,OTHER VIOLATIONS,12
+68,2012,OTHER VIOLATIONS,10
+68,2013,OTHER VIOLATIONS,20
+68,2014,OTHER VIOLATIONS,6
+69,2000,HARASSMENT 2,1317
+69,2001,HARASSMENT 2,1383
+69,2002,HARASSMENT 2,1101
+69,2003,HARASSMENT 2,1058
+69,2004,HARASSMENT 2,1049
+69,2005,HARASSMENT 2,974
+69,2006,HARASSMENT 2,897
+69,2007,HARASSMENT 2,799
+69,2008,HARASSMENT 2,741
+69,2009,HARASSMENT 2,695
+69,2010,HARASSMENT 2,726
+69,2011,HARASSMENT 2,757
+69,2012,HARASSMENT 2,833
+69,2013,HARASSMENT 2,782
+69,2014,HARASSMENT 2,856
+69,2000,OTHER VIOLATIONS,21
+69,2001,OTHER VIOLATIONS,18
+69,2002,OTHER VIOLATIONS,8
+69,2003,OTHER VIOLATIONS,8
+69,2004,OTHER VIOLATIONS,11
+69,2005,OTHER VIOLATIONS,16
+69,2006,OTHER VIOLATIONS,23
+69,2007,OTHER VIOLATIONS,19
+69,2008,OTHER VIOLATIONS,16
+69,2009,OTHER VIOLATIONS,19
+69,2010,OTHER VIOLATIONS,24
+69,2011,OTHER VIOLATIONS,18
+69,2012,OTHER VIOLATIONS,21
+69,2013,OTHER VIOLATIONS,14
+69,2014,OTHER VIOLATIONS,13
+70,2000,HARASSMENT 2,1595
+70,2001,HARASSMENT 2,1714
+70,2002,HARASSMENT 2,1379
+70,2003,HARASSMENT 2,1470
+70,2004,HARASSMENT 2,1379
+70,2005,HARASSMENT 2,1252
+70,2006,HARASSMENT 2,1120
+70,2007,HARASSMENT 2,894
+70,2008,HARASSMENT 2,780
+70,2009,HARASSMENT 2,694
+70,2010,HARASSMENT 2,665
+70,2011,HARASSMENT 2,596
+70,2012,HARASSMENT 2,875
+70,2013,HARASSMENT 2,854
+70,2014,HARASSMENT 2,934
+70,2000,OTHER VIOLATIONS,46
+70,2001,OTHER VIOLATIONS,28
+70,2002,OTHER VIOLATIONS,35
+70,2003,OTHER VIOLATIONS,28
+70,2004,OTHER VIOLATIONS,47
+70,2005,OTHER VIOLATIONS,51
+70,2006,OTHER VIOLATIONS,55
+70,2007,OTHER VIOLATIONS,42
+70,2008,OTHER VIOLATIONS,32
+70,2009,OTHER VIOLATIONS,61
+70,2010,OTHER VIOLATIONS,72
+70,2011,OTHER VIOLATIONS,41
+70,2012,OTHER VIOLATIONS,31
+70,2013,OTHER VIOLATIONS,30
+70,2014,OTHER VIOLATIONS,11
+71,2000,HARASSMENT 2,2004
+71,2001,HARASSMENT 2,1914
+71,2002,HARASSMENT 2,1460
+71,2003,HARASSMENT 2,1486
+71,2004,HARASSMENT 2,1162
+71,2005,HARASSMENT 2,954
+71,2006,HARASSMENT 2,795
+71,2007,HARASSMENT 2,883
+71,2008,HARASSMENT 2,974
+71,2009,HARASSMENT 2,942
+71,2010,HARASSMENT 2,920
+71,2011,HARASSMENT 2,884
+71,2012,HARASSMENT 2,977
+71,2013,HARASSMENT 2,992
+71,2014,HARASSMENT 2,972
+71,2000,OTHER VIOLATIONS,23
+71,2001,OTHER VIOLATIONS,21
+71,2002,OTHER VIOLATIONS,20
+71,2003,OTHER VIOLATIONS,29
+71,2004,OTHER VIOLATIONS,25
+71,2005,OTHER VIOLATIONS,53
+71,2006,OTHER VIOLATIONS,58
+71,2007,OTHER VIOLATIONS,75
+71,2008,OTHER VIOLATIONS,54
+71,2009,OTHER VIOLATIONS,65
+71,2010,OTHER VIOLATIONS,69
+71,2011,OTHER VIOLATIONS,67
+71,2012,OTHER VIOLATIONS,72
+71,2013,OTHER VIOLATIONS,40
+71,2014,OTHER VIOLATIONS,30
+72,2000,HARASSMENT 2,1512
+72,2001,HARASSMENT 2,1379
+72,2002,HARASSMENT 2,1174
+72,2003,HARASSMENT 2,1013
+72,2004,HARASSMENT 2,985
+72,2005,HARASSMENT 2,823
+72,2006,HARASSMENT 2,732
+72,2007,HARASSMENT 2,583
+72,2008,HARASSMENT 2,595
+72,2009,HARASSMENT 2,606
+72,2010,HARASSMENT 2,532
+72,2011,HARASSMENT 2,583
+72,2012,HARASSMENT 2,612
+72,2013,HARASSMENT 2,604
+72,2014,HARASSMENT 2,601
+72,2000,OTHER VIOLATIONS,37
+72,2001,OTHER VIOLATIONS,34
+72,2002,OTHER VIOLATIONS,14
+72,2003,OTHER VIOLATIONS,14
+72,2004,OTHER VIOLATIONS,22
+72,2005,OTHER VIOLATIONS,36
+72,2006,OTHER VIOLATIONS,28
+72,2007,OTHER VIOLATIONS,30
+72,2008,OTHER VIOLATIONS,25
+72,2009,OTHER VIOLATIONS,23
+72,2010,OTHER VIOLATIONS,31
+72,2011,OTHER VIOLATIONS,21
+72,2012,OTHER VIOLATIONS,17
+72,2013,OTHER VIOLATIONS,15
+72,2014,OTHER VIOLATIONS,6
+73,2000,HARASSMENT 2,1444
+73,2001,HARASSMENT 2,1561
+73,2002,HARASSMENT 2,1513
+73,2003,HARASSMENT 2,1418
+73,2004,HARASSMENT 2,1454
+73,2005,HARASSMENT 2,1392
+73,2006,HARASSMENT 2,1210
+73,2007,HARASSMENT 2,1104
+73,2008,HARASSMENT 2,1148
+73,2009,HARASSMENT 2,1320
+73,2010,HARASSMENT 2,1221
+73,2011,HARASSMENT 2,1210
+73,2012,HARASSMENT 2,1350
+73,2013,HARASSMENT 2,1358
+73,2014,HARASSMENT 2,1381
+73,2000,OTHER VIOLATIONS,46
+73,2001,OTHER VIOLATIONS,29
+73,2002,OTHER VIOLATIONS,36
+73,2003,OTHER VIOLATIONS,91
+73,2004,OTHER VIOLATIONS,84
+73,2005,OTHER VIOLATIONS,106
+73,2006,OTHER VIOLATIONS,123
+73,2007,OTHER VIOLATIONS,119
+73,2008,OTHER VIOLATIONS,107
+73,2009,OTHER VIOLATIONS,144
+73,2010,OTHER VIOLATIONS,95
+73,2011,OTHER VIOLATIONS,138
+73,2012,OTHER VIOLATIONS,122
+73,2013,OTHER VIOLATIONS,148
+73,2014,OTHER VIOLATIONS,47
+75,2000,HARASSMENT 2,2644
+75,2001,HARASSMENT 2,2652
+75,2002,HARASSMENT 2,2102
+75,2003,HARASSMENT 2,2200
+75,2004,HARASSMENT 2,2203
+75,2005,HARASSMENT 2,1973
+75,2006,HARASSMENT 2,1650
+75,2007,HARASSMENT 2,1506
+75,2008,HARASSMENT 2,1468
+75,2009,HARASSMENT 2,1632
+75,2010,HARASSMENT 2,1527
+75,2011,HARASSMENT 2,1527
+75,2012,HARASSMENT 2,1605
+75,2013,HARASSMENT 2,1763
+75,2014,HARASSMENT 2,2106
+75,2000,OTHER VIOLATIONS,113
+75,2001,OTHER VIOLATIONS,74
+75,2002,OTHER VIOLATIONS,53
+75,2003,OTHER VIOLATIONS,81
+75,2004,OTHER VIOLATIONS,112
+75,2005,OTHER VIOLATIONS,131
+75,2006,OTHER VIOLATIONS,105
+75,2007,OTHER VIOLATIONS,111
+75,2008,OTHER VIOLATIONS,74
+75,2009,OTHER VIOLATIONS,64
+75,2010,OTHER VIOLATIONS,80
+75,2011,OTHER VIOLATIONS,130
+75,2012,OTHER VIOLATIONS,106
+75,2013,OTHER VIOLATIONS,127
+75,2014,OTHER VIOLATIONS,59
+76,2000,HARASSMENT 2,685
+76,2001,HARASSMENT 2,747
+76,2002,HARASSMENT 2,658
+76,2003,HARASSMENT 2,603
+76,2004,HARASSMENT 2,629
+76,2005,HARASSMENT 2,524
+76,2006,HARASSMENT 2,434
+76,2007,HARASSMENT 2,412
+76,2008,HARASSMENT 2,379
+76,2009,HARASSMENT 2,339
+76,2010,HARASSMENT 2,430
+76,2011,HARASSMENT 2,323
+76,2012,HARASSMENT 2,311
+76,2013,HARASSMENT 2,285
+76,2014,HARASSMENT 2,357
+76,2000,OTHER VIOLATIONS,9
+76,2001,OTHER VIOLATIONS,20
+76,2002,OTHER VIOLATIONS,5
+76,2003,OTHER VIOLATIONS,4
+76,2004,OTHER VIOLATIONS,10
+76,2005,OTHER VIOLATIONS,9
+76,2006,OTHER VIOLATIONS,14
+76,2007,OTHER VIOLATIONS,12
+76,2008,OTHER VIOLATIONS,10
+76,2009,OTHER VIOLATIONS,21
+76,2010,OTHER VIOLATIONS,21
+76,2011,OTHER VIOLATIONS,23
+76,2012,OTHER VIOLATIONS,14
+76,2013,OTHER VIOLATIONS,15
+76,2014,OTHER VIOLATIONS,5
+77,2000,HARASSMENT 2,1417
+77,2001,HARASSMENT 2,1522
+77,2002,HARASSMENT 2,1221
+77,2003,HARASSMENT 2,1245
+77,2004,HARASSMENT 2,1009
+77,2005,HARASSMENT 2,827
+77,2006,HARASSMENT 2,774
+77,2007,HARASSMENT 2,854
+77,2008,HARASSMENT 2,837
+77,2009,HARASSMENT 2,803
+77,2010,HARASSMENT 2,860
+77,2011,HARASSMENT 2,853
+77,2012,HARASSMENT 2,940
+77,2013,HARASSMENT 2,822
+77,2014,HARASSMENT 2,1032
+77,2000,OTHER VIOLATIONS,38
+77,2001,OTHER VIOLATIONS,24
+77,2002,OTHER VIOLATIONS,41
+77,2003,OTHER VIOLATIONS,46
+77,2004,OTHER VIOLATIONS,42
+77,2005,OTHER VIOLATIONS,64
+77,2006,OTHER VIOLATIONS,63
+77,2007,OTHER VIOLATIONS,72
+77,2008,OTHER VIOLATIONS,46
+77,2009,OTHER VIOLATIONS,54
+77,2010,OTHER VIOLATIONS,75
+77,2011,OTHER VIOLATIONS,80
+77,2012,OTHER VIOLATIONS,84
+77,2013,OTHER VIOLATIONS,86
+77,2014,OTHER VIOLATIONS,24
+78,2000,HARASSMENT 2,815
+78,2001,HARASSMENT 2,732
+78,2002,HARASSMENT 2,518
+78,2003,HARASSMENT 2,483
+78,2004,HARASSMENT 2,497
+78,2005,HARASSMENT 2,403
+78,2006,HARASSMENT 2,371
+78,2007,HARASSMENT 2,375
+78,2008,HARASSMENT 2,345
+78,2009,HARASSMENT 2,298
+78,2010,HARASSMENT 2,316
+78,2011,HARASSMENT 2,297
+78,2012,HARASSMENT 2,365
+78,2013,HARASSMENT 2,359
+78,2014,HARASSMENT 2,436
+78,2000,OTHER VIOLATIONS,12
+78,2001,OTHER VIOLATIONS,9
+78,2002,OTHER VIOLATIONS,15
+78,2003,OTHER VIOLATIONS,12
+78,2004,OTHER VIOLATIONS,12
+78,2005,OTHER VIOLATIONS,17
+78,2006,OTHER VIOLATIONS,14
+78,2007,OTHER VIOLATIONS,21
+78,2008,OTHER VIOLATIONS,20
+78,2009,OTHER VIOLATIONS,19
+78,2010,OTHER VIOLATIONS,13
+78,2011,OTHER VIOLATIONS,14
+78,2012,OTHER VIOLATIONS,29
+78,2013,OTHER VIOLATIONS,25
+78,2014,OTHER VIOLATIONS,3
+79,2000,HARASSMENT 2,1500
+79,2001,HARASSMENT 2,1685
+79,2002,HARASSMENT 2,1254
+79,2003,HARASSMENT 2,1292
+79,2004,HARASSMENT 2,1305
+79,2005,HARASSMENT 2,1277
+79,2006,HARASSMENT 2,1257
+79,2007,HARASSMENT 2,1083
+79,2008,HARASSMENT 2,1183
+79,2009,HARASSMENT 2,966
+79,2010,HARASSMENT 2,993
+79,2011,HARASSMENT 2,865
+79,2012,HARASSMENT 2,1014
+79,2013,HARASSMENT 2,988
+79,2014,HARASSMENT 2,1012
+79,2000,OTHER VIOLATIONS,57
+79,2001,OTHER VIOLATIONS,49
+79,2002,OTHER VIOLATIONS,36
+79,2003,OTHER VIOLATIONS,39
+79,2004,OTHER VIOLATIONS,45
+79,2005,OTHER VIOLATIONS,67
+79,2006,OTHER VIOLATIONS,78
+79,2007,OTHER VIOLATIONS,97
+79,2008,OTHER VIOLATIONS,62
+79,2009,OTHER VIOLATIONS,63
+79,2010,OTHER VIOLATIONS,42
+79,2011,OTHER VIOLATIONS,82
+79,2012,OTHER VIOLATIONS,134
+79,2013,OTHER VIOLATIONS,123
+79,2014,OTHER VIOLATIONS,14
+81,2000,HARASSMENT 2,1138
+81,2001,HARASSMENT 2,1289
+81,2002,HARASSMENT 2,980
+81,2003,HARASSMENT 2,1055
+81,2004,HARASSMENT 2,990
+81,2005,HARASSMENT 2,815
+81,2006,HARASSMENT 2,899
+81,2007,HARASSMENT 2,984
+81,2008,HARASSMENT 2,884
+81,2009,HARASSMENT 2,835
+81,2010,HARASSMENT 2,835
+81,2011,HARASSMENT 2,720
+81,2012,HARASSMENT 2,881
+81,2013,HARASSMENT 2,918
+81,2014,HARASSMENT 2,906
+81,2000,OTHER VIOLATIONS,40
+81,2001,OTHER VIOLATIONS,21
+81,2002,OTHER VIOLATIONS,19
+81,2003,OTHER VIOLATIONS,18
+81,2004,OTHER VIOLATIONS,55
+81,2005,OTHER VIOLATIONS,25
+81,2006,OTHER VIOLATIONS,55
+81,2007,OTHER VIOLATIONS,45
+81,2008,OTHER VIOLATIONS,41
+81,2009,OTHER VIOLATIONS,88
+81,2010,OTHER VIOLATIONS,57
+81,2011,OTHER VIOLATIONS,62
+81,2012,OTHER VIOLATIONS,55
+81,2013,OTHER VIOLATIONS,45
+81,2014,OTHER VIOLATIONS,9
+83,2000,HARASSMENT 2,1762
+83,2001,HARASSMENT 2,2083
+83,2002,HARASSMENT 2,1635
+83,2003,HARASSMENT 2,1518
+83,2004,HARASSMENT 2,1209
+83,2005,HARASSMENT 2,1085
+83,2006,HARASSMENT 2,1023
+83,2007,HARASSMENT 2,901
+83,2008,HARASSMENT 2,833
+83,2009,HARASSMENT 2,686
+83,2010,HARASSMENT 2,727
+83,2011,HARASSMENT 2,718
+83,2012,HARASSMENT 2,730
+83,2013,HARASSMENT 2,791
+83,2014,HARASSMENT 2,802
+83,2000,OTHER VIOLATIONS,37
+83,2001,OTHER VIOLATIONS,39
+83,2002,OTHER VIOLATIONS,18
+83,2003,OTHER VIOLATIONS,30
+83,2004,OTHER VIOLATIONS,53
+83,2005,OTHER VIOLATIONS,63
+83,2006,OTHER VIOLATIONS,71
+83,2007,OTHER VIOLATIONS,59
+83,2008,OTHER VIOLATIONS,46
+83,2009,OTHER VIOLATIONS,35
+83,2010,OTHER VIOLATIONS,43
+83,2011,OTHER VIOLATIONS,34
+83,2012,OTHER VIOLATIONS,43
+83,2013,OTHER VIOLATIONS,36
+83,2014,OTHER VIOLATIONS,10
+84,2000,HARASSMENT 2,1014
+84,2001,HARASSMENT 2,1019
+84,2002,HARASSMENT 2,878
+84,2003,HARASSMENT 2,774
+84,2004,HARASSMENT 2,729
+84,2005,HARASSMENT 2,691
+84,2006,HARASSMENT 2,667
+84,2007,HARASSMENT 2,607
+84,2008,HARASSMENT 2,589
+84,2009,HARASSMENT 2,571
+84,2010,HARASSMENT 2,651
+84,2011,HARASSMENT 2,621
+84,2012,HARASSMENT 2,653
+84,2013,HARASSMENT 2,568
+84,2014,HARASSMENT 2,641
+84,2000,OTHER VIOLATIONS,44
+84,2001,OTHER VIOLATIONS,33
+84,2002,OTHER VIOLATIONS,20
+84,2003,OTHER VIOLATIONS,41
+84,2004,OTHER VIOLATIONS,14
+84,2005,OTHER VIOLATIONS,39
+84,2006,OTHER VIOLATIONS,41
+84,2007,OTHER VIOLATIONS,38
+84,2008,OTHER VIOLATIONS,60
+84,2009,OTHER VIOLATIONS,56
+84,2010,OTHER VIOLATIONS,61
+84,2011,OTHER VIOLATIONS,44
+84,2012,OTHER VIOLATIONS,33
+84,2013,OTHER VIOLATIONS,35
+84,2014,OTHER VIOLATIONS,9
+88,2000,HARASSMENT 2,991
+88,2001,HARASSMENT 2,1084
+88,2002,HARASSMENT 2,970
+88,2003,HARASSMENT 2,877
+88,2004,HARASSMENT 2,792
+88,2005,HARASSMENT 2,657
+88,2006,HARASSMENT 2,633
+88,2007,HARASSMENT 2,633
+88,2008,HARASSMENT 2,596
+88,2009,HARASSMENT 2,466
+88,2010,HARASSMENT 2,548
+88,2011,HARASSMENT 2,509
+88,2012,HARASSMENT 2,567
+88,2013,HARASSMENT 2,526
+88,2014,HARASSMENT 2,559
+88,2000,OTHER VIOLATIONS,24
+88,2001,OTHER VIOLATIONS,20
+88,2002,OTHER VIOLATIONS,24
+88,2003,OTHER VIOLATIONS,34
+88,2004,OTHER VIOLATIONS,36
+88,2005,OTHER VIOLATIONS,26
+88,2006,OTHER VIOLATIONS,23
+88,2007,OTHER VIOLATIONS,37
+88,2008,OTHER VIOLATIONS,22
+88,2009,OTHER VIOLATIONS,22
+88,2010,OTHER VIOLATIONS,36
+88,2011,OTHER VIOLATIONS,17
+88,2012,OTHER VIOLATIONS,42
+88,2013,OTHER VIOLATIONS,35
+88,2014,OTHER VIOLATIONS,9
+90,2000,HARASSMENT 2,919
+90,2001,HARASSMENT 2,1003
+90,2002,HARASSMENT 2,877
+90,2003,HARASSMENT 2,675
+90,2004,HARASSMENT 2,815
+90,2005,HARASSMENT 2,761
+90,2006,HARASSMENT 2,745
+90,2007,HARASSMENT 2,670
+90,2008,HARASSMENT 2,550
+90,2009,HARASSMENT 2,580
+90,2010,HARASSMENT 2,569
+90,2011,HARASSMENT 2,560
+90,2012,HARASSMENT 2,645
+90,2013,HARASSMENT 2,648
+90,2014,HARASSMENT 2,718
+90,2000,OTHER VIOLATIONS,25
+90,2001,OTHER VIOLATIONS,21
+90,2002,OTHER VIOLATIONS,20
+90,2003,OTHER VIOLATIONS,33
+90,2004,OTHER VIOLATIONS,18
+90,2005,OTHER VIOLATIONS,32
+90,2006,OTHER VIOLATIONS,56
+90,2007,OTHER VIOLATIONS,45
+90,2008,OTHER VIOLATIONS,41
+90,2009,OTHER VIOLATIONS,29
+90,2010,OTHER VIOLATIONS,21
+90,2011,OTHER VIOLATIONS,26
+90,2012,OTHER VIOLATIONS,35
+90,2013,OTHER VIOLATIONS,33
+90,2014,OTHER VIOLATIONS,9
+94,2000,HARASSMENT 2,691
+94,2001,HARASSMENT 2,704
+94,2002,HARASSMENT 2,601
+94,2003,HARASSMENT 2,619
+94,2004,HARASSMENT 2,558
+94,2005,HARASSMENT 2,463
+94,2006,HARASSMENT 2,389
+94,2007,HARASSMENT 2,371
+94,2008,HARASSMENT 2,317
+94,2009,HARASSMENT 2,277
+94,2010,HARASSMENT 2,295
+94,2011,HARASSMENT 2,284
+94,2012,HARASSMENT 2,285
+94,2013,HARASSMENT 2,233
+94,2014,HARASSMENT 2,363
+94,2000,OTHER VIOLATIONS,18
+94,2001,OTHER VIOLATIONS,18
+94,2002,OTHER VIOLATIONS,15
+94,2003,OTHER VIOLATIONS,15
+94,2004,OTHER VIOLATIONS,21
+94,2005,OTHER VIOLATIONS,12
+94,2006,OTHER VIOLATIONS,17
+94,2007,OTHER VIOLATIONS,14
+94,2008,OTHER VIOLATIONS,8
+94,2009,OTHER VIOLATIONS,20
+94,2010,OTHER VIOLATIONS,16
+94,2011,OTHER VIOLATIONS,11
+94,2012,OTHER VIOLATIONS,13
+94,2013,OTHER VIOLATIONS,24
+94,2014,OTHER VIOLATIONS,3
+100,2000,HARASSMENT 2,571
+100,2001,HARASSMENT 2,590
+100,2002,HARASSMENT 2,591
+100,2003,HARASSMENT 2,574
+100,2004,HARASSMENT 2,579
+100,2005,HARASSMENT 2,549
+100,2006,HARASSMENT 2,508
+100,2007,HARASSMENT 2,460
+100,2008,HARASSMENT 2,469
+100,2009,HARASSMENT 2,502
+100,2010,HARASSMENT 2,400
+100,2011,HARASSMENT 2,366
+100,2012,HARASSMENT 2,354
+100,2013,HARASSMENT 2,317
+100,2014,HARASSMENT 2,459
+100,2000,OTHER VIOLATIONS,25
+100,2001,OTHER VIOLATIONS,29
+100,2002,OTHER VIOLATIONS,55
+100,2003,OTHER VIOLATIONS,51
+100,2004,OTHER VIOLATIONS,42
+100,2005,OTHER VIOLATIONS,50
+100,2006,OTHER VIOLATIONS,48
+100,2007,OTHER VIOLATIONS,73
+100,2008,OTHER VIOLATIONS,61
+100,2009,OTHER VIOLATIONS,56
+100,2010,OTHER VIOLATIONS,61
+100,2011,OTHER VIOLATIONS,58
+100,2012,OTHER VIOLATIONS,29
+100,2013,OTHER VIOLATIONS,37
+100,2014,OTHER VIOLATIONS,7
+101,2000,HARASSMENT 2,1429
+101,2001,HARASSMENT 2,1454
+101,2002,HARASSMENT 2,1271
+101,2003,HARASSMENT 2,940
+101,2004,HARASSMENT 2,997
+101,2005,HARASSMENT 2,1060
+101,2006,HARASSMENT 2,859
+101,2007,HARASSMENT 2,833
+101,2008,HARASSMENT 2,831
+101,2009,HARASSMENT 2,601
+101,2010,HARASSMENT 2,566
+101,2011,HARASSMENT 2,519
+101,2012,HARASSMENT 2,559
+101,2013,HARASSMENT 2,575
+101,2014,HARASSMENT 2,735
+101,2000,OTHER VIOLATIONS,35
+101,2001,OTHER VIOLATIONS,74
+101,2002,OTHER VIOLATIONS,55
+101,2003,OTHER VIOLATIONS,124
+101,2004,OTHER VIOLATIONS,112
+101,2005,OTHER VIOLATIONS,128
+101,2006,OTHER VIOLATIONS,218
+101,2007,OTHER VIOLATIONS,140
+101,2008,OTHER VIOLATIONS,112
+101,2009,OTHER VIOLATIONS,96
+101,2010,OTHER VIOLATIONS,71
+101,2011,OTHER VIOLATIONS,87
+101,2012,OTHER VIOLATIONS,105
+101,2013,OTHER VIOLATIONS,80
+101,2014,OTHER VIOLATIONS,2
+102,2000,HARASSMENT 2,1726
+102,2001,HARASSMENT 2,1827
+102,2002,HARASSMENT 2,1628
+102,2003,HARASSMENT 2,1276
+102,2004,HARASSMENT 2,997
+102,2005,HARASSMENT 2,1035
+102,2006,HARASSMENT 2,818
+102,2007,HARASSMENT 2,935
+102,2008,HARASSMENT 2,1022
+102,2009,HARASSMENT 2,977
+102,2010,HARASSMENT 2,855
+102,2011,HARASSMENT 2,855
+102,2012,HARASSMENT 2,796
+102,2013,HARASSMENT 2,870
+102,2014,HARASSMENT 2,911
+102,2000,OTHER VIOLATIONS,20
+102,2001,OTHER VIOLATIONS,56
+102,2002,OTHER VIOLATIONS,58
+102,2003,OTHER VIOLATIONS,55
+102,2004,OTHER VIOLATIONS,30
+102,2005,OTHER VIOLATIONS,35
+102,2006,OTHER VIOLATIONS,50
+102,2007,OTHER VIOLATIONS,47
+102,2008,OTHER VIOLATIONS,36
+102,2009,OTHER VIOLATIONS,36
+102,2010,OTHER VIOLATIONS,37
+102,2011,OTHER VIOLATIONS,33
+102,2012,OTHER VIOLATIONS,40
+102,2013,OTHER VIOLATIONS,59
+102,2014,OTHER VIOLATIONS,12
+103,2000,HARASSMENT 2,1882
+103,2001,HARASSMENT 2,1904
+103,2002,HARASSMENT 2,1848
+103,2003,HARASSMENT 2,1488
+103,2004,HARASSMENT 2,1328
+103,2005,HARASSMENT 2,1174
+103,2006,HARASSMENT 2,1135
+103,2007,HARASSMENT 2,962
+103,2008,HARASSMENT 2,1112
+103,2009,HARASSMENT 2,1049
+103,2010,HARASSMENT 2,994
+103,2011,HARASSMENT 2,959
+103,2012,HARASSMENT 2,953
+103,2013,HARASSMENT 2,1102
+103,2014,HARASSMENT 2,1235
+103,2000,OTHER VIOLATIONS,72
+103,2001,OTHER VIOLATIONS,91
+103,2002,OTHER VIOLATIONS,65
+103,2003,OTHER VIOLATIONS,113
+103,2004,OTHER VIOLATIONS,129
+103,2005,OTHER VIOLATIONS,90
+103,2006,OTHER VIOLATIONS,165
+103,2007,OTHER VIOLATIONS,104
+103,2008,OTHER VIOLATIONS,91
+103,2009,OTHER VIOLATIONS,91
+103,2010,OTHER VIOLATIONS,117
+103,2011,OTHER VIOLATIONS,134
+103,2012,OTHER VIOLATIONS,123
+103,2013,OTHER VIOLATIONS,103
+103,2014,OTHER VIOLATIONS,17
+104,2000,HARASSMENT 2,2385
+104,2001,HARASSMENT 2,2320
+104,2002,HARASSMENT 2,2051
+104,2003,HARASSMENT 2,1624
+104,2004,HARASSMENT 2,1397
+104,2005,HARASSMENT 2,1305
+104,2006,HARASSMENT 2,1139
+104,2007,HARASSMENT 2,937
+104,2008,HARASSMENT 2,991
+104,2009,HARASSMENT 2,986
+104,2010,HARASSMENT 2,962
+104,2011,HARASSMENT 2,903
+104,2012,HARASSMENT 2,916
+104,2013,HARASSMENT 2,915
+104,2014,HARASSMENT 2,1061
+104,2000,OTHER VIOLATIONS,41
+104,2001,OTHER VIOLATIONS,60
+104,2002,OTHER VIOLATIONS,40
+104,2003,OTHER VIOLATIONS,48
+104,2004,OTHER VIOLATIONS,69
+104,2005,OTHER VIOLATIONS,42
+104,2006,OTHER VIOLATIONS,47
+104,2007,OTHER VIOLATIONS,43
+104,2008,OTHER VIOLATIONS,48
+104,2009,OTHER VIOLATIONS,48
+104,2010,OTHER VIOLATIONS,30
+104,2011,OTHER VIOLATIONS,25
+104,2012,OTHER VIOLATIONS,30
+104,2013,OTHER VIOLATIONS,34
+104,2014,OTHER VIOLATIONS,5
+105,2000,HARASSMENT 2,1943
+105,2001,HARASSMENT 2,1886
+105,2002,HARASSMENT 2,2038
+105,2003,HARASSMENT 2,1541
+105,2004,HARASSMENT 2,1404
+105,2005,HARASSMENT 2,1207
+105,2006,HARASSMENT 2,977
+105,2007,HARASSMENT 2,962
+105,2008,HARASSMENT 2,979
+105,2009,HARASSMENT 2,956
+105,2010,HARASSMENT 2,890
+105,2011,HARASSMENT 2,903
+105,2012,HARASSMENT 2,1024
+105,2013,HARASSMENT 2,1035
+105,2014,HARASSMENT 2,1043
+105,2000,OTHER VIOLATIONS,30
+105,2001,OTHER VIOLATIONS,20
+105,2002,OTHER VIOLATIONS,24
+105,2003,OTHER VIOLATIONS,37
+105,2004,OTHER VIOLATIONS,17
+105,2005,OTHER VIOLATIONS,52
+105,2006,OTHER VIOLATIONS,35
+105,2007,OTHER VIOLATIONS,35
+105,2008,OTHER VIOLATIONS,31
+105,2009,OTHER VIOLATIONS,49
+105,2010,OTHER VIOLATIONS,40
+105,2011,OTHER VIOLATIONS,53
+105,2012,OTHER VIOLATIONS,51
+105,2013,OTHER VIOLATIONS,31
+105,2014,OTHER VIOLATIONS,15
+106,2000,HARASSMENT 2,1953
+106,2001,HARASSMENT 2,1912
+106,2002,HARASSMENT 2,1807
+106,2003,HARASSMENT 2,1379
+106,2004,HARASSMENT 2,1108
+106,2005,HARASSMENT 2,1024
+106,2006,HARASSMENT 2,1134
+106,2007,HARASSMENT 2,1106
+106,2008,HARASSMENT 2,936
+106,2009,HARASSMENT 2,951
+106,2010,HARASSMENT 2,822
+106,2011,HARASSMENT 2,706
+106,2012,HARASSMENT 2,795
+106,2013,HARASSMENT 2,785
+106,2014,HARASSMENT 2,920
+106,2000,OTHER VIOLATIONS,31
+106,2001,OTHER VIOLATIONS,41
+106,2002,OTHER VIOLATIONS,41
+106,2003,OTHER VIOLATIONS,68
+106,2004,OTHER VIOLATIONS,60
+106,2005,OTHER VIOLATIONS,149
+106,2006,OTHER VIOLATIONS,144
+106,2007,OTHER VIOLATIONS,178
+106,2008,OTHER VIOLATIONS,97
+106,2009,OTHER VIOLATIONS,124
+106,2010,OTHER VIOLATIONS,94
+106,2011,OTHER VIOLATIONS,93
+106,2012,OTHER VIOLATIONS,83
+106,2013,OTHER VIOLATIONS,100
+106,2014,OTHER VIOLATIONS,8
+107,2000,HARASSMENT 2,1347
+107,2001,HARASSMENT 2,1474
+107,2002,HARASSMENT 2,1470
+107,2003,HARASSMENT 2,1214
+107,2004,HARASSMENT 2,1108
+107,2005,HARASSMENT 2,883
+107,2006,HARASSMENT 2,815
+107,2007,HARASSMENT 2,878
+107,2008,HARASSMENT 2,803
+107,2009,HARASSMENT 2,823
+107,2010,HARASSMENT 2,756
+107,2011,HARASSMENT 2,714
+107,2012,HARASSMENT 2,619
+107,2013,HARASSMENT 2,705
+107,2014,HARASSMENT 2,616
+107,2000,OTHER VIOLATIONS,25
+107,2001,OTHER VIOLATIONS,38
+107,2002,OTHER VIOLATIONS,15
+107,2003,OTHER VIOLATIONS,27
+107,2004,OTHER VIOLATIONS,40
+107,2005,OTHER VIOLATIONS,44
+107,2006,OTHER VIOLATIONS,42
+107,2007,OTHER VIOLATIONS,28
+107,2008,OTHER VIOLATIONS,30
+107,2009,OTHER VIOLATIONS,25
+107,2010,OTHER VIOLATIONS,36
+107,2011,OTHER VIOLATIONS,29
+107,2012,OTHER VIOLATIONS,18
+107,2013,OTHER VIOLATIONS,17
+107,2014,OTHER VIOLATIONS,4
+108,2000,HARASSMENT 2,1100
+108,2001,HARASSMENT 2,1000
+108,2002,HARASSMENT 2,1007
+108,2003,HARASSMENT 2,794
+108,2004,HARASSMENT 2,871
+108,2005,HARASSMENT 2,721
+108,2006,HARASSMENT 2,742
+108,2007,HARASSMENT 2,704
+108,2008,HARASSMENT 2,653
+108,2009,HARASSMENT 2,679
+108,2010,HARASSMENT 2,695
+108,2011,HARASSMENT 2,646
+108,2012,HARASSMENT 2,661
+108,2013,HARASSMENT 2,770
+108,2014,HARASSMENT 2,799
+108,2000,OTHER VIOLATIONS,103
+108,2001,OTHER VIOLATIONS,197
+108,2002,OTHER VIOLATIONS,73
+108,2003,OTHER VIOLATIONS,125
+108,2004,OTHER VIOLATIONS,94
+108,2005,OTHER VIOLATIONS,60
+108,2006,OTHER VIOLATIONS,61
+108,2007,OTHER VIOLATIONS,57
+108,2008,OTHER VIOLATIONS,45
+108,2009,OTHER VIOLATIONS,49
+108,2010,OTHER VIOLATIONS,35
+108,2011,OTHER VIOLATIONS,26
+108,2012,OTHER VIOLATIONS,23
+108,2013,OTHER VIOLATIONS,46
+108,2014,OTHER VIOLATIONS,6
+109,2000,HARASSMENT 2,1738
+109,2001,HARASSMENT 2,1878
+109,2002,HARASSMENT 2,1794
+109,2003,HARASSMENT 2,1612
+109,2004,HARASSMENT 2,1300
+109,2005,HARASSMENT 2,1142
+109,2006,HARASSMENT 2,1004
+109,2007,HARASSMENT 2,1041
+109,2008,HARASSMENT 2,1062
+109,2009,HARASSMENT 2,1037
+109,2010,HARASSMENT 2,988
+109,2011,HARASSMENT 2,924
+109,2012,HARASSMENT 2,890
+109,2013,HARASSMENT 2,888
+109,2014,HARASSMENT 2,1134
+109,2000,OTHER VIOLATIONS,26
+109,2001,OTHER VIOLATIONS,25
+109,2002,OTHER VIOLATIONS,41
+109,2003,OTHER VIOLATIONS,88
+109,2004,OTHER VIOLATIONS,69
+109,2005,OTHER VIOLATIONS,54
+109,2006,OTHER VIOLATIONS,60
+109,2007,OTHER VIOLATIONS,32
+109,2008,OTHER VIOLATIONS,48
+109,2009,OTHER VIOLATIONS,33
+109,2010,OTHER VIOLATIONS,17
+109,2011,OTHER VIOLATIONS,28
+109,2012,OTHER VIOLATIONS,34
+109,2013,OTHER VIOLATIONS,19
+109,2014,OTHER VIOLATIONS,12
+110,2000,HARASSMENT 2,1162
+110,2001,HARASSMENT 2,1231
+110,2002,HARASSMENT 2,1270
+110,2003,HARASSMENT 2,1022
+110,2004,HARASSMENT 2,950
+110,2005,HARASSMENT 2,831
+110,2006,HARASSMENT 2,817
+110,2007,HARASSMENT 2,830
+110,2008,HARASSMENT 2,724
+110,2009,HARASSMENT 2,653
+110,2010,HARASSMENT 2,578
+110,2011,HARASSMENT 2,541
+110,2012,HARASSMENT 2,562
+110,2013,HARASSMENT 2,603
+110,2014,HARASSMENT 2,626
+110,2000,OTHER VIOLATIONS,96
+110,2001,OTHER VIOLATIONS,87
+110,2002,OTHER VIOLATIONS,93
+110,2003,OTHER VIOLATIONS,115
+110,2004,OTHER VIOLATIONS,114
+110,2005,OTHER VIOLATIONS,142
+110,2006,OTHER VIOLATIONS,168
+110,2007,OTHER VIOLATIONS,146
+110,2008,OTHER VIOLATIONS,176
+110,2009,OTHER VIOLATIONS,202
+110,2010,OTHER VIOLATIONS,166
+110,2011,OTHER VIOLATIONS,130
+110,2012,OTHER VIOLATIONS,107
+110,2013,OTHER VIOLATIONS,110
+110,2014,OTHER VIOLATIONS,9
+111,2000,HARASSMENT 2,769
+111,2001,HARASSMENT 2,740
+111,2002,HARASSMENT 2,651
+111,2003,HARASSMENT 2,551
+111,2004,HARASSMENT 2,488
+111,2005,HARASSMENT 2,478
+111,2006,HARASSMENT 2,416
+111,2007,HARASSMENT 2,462
+111,2008,HARASSMENT 2,452
+111,2009,HARASSMENT 2,432
+111,2010,HARASSMENT 2,388
+111,2011,HARASSMENT 2,381
+111,2012,HARASSMENT 2,358
+111,2013,HARASSMENT 2,386
+111,2014,HARASSMENT 2,363
+111,2000,OTHER VIOLATIONS,6
+111,2001,OTHER VIOLATIONS,10
+111,2002,OTHER VIOLATIONS,16
+111,2003,OTHER VIOLATIONS,14
+111,2004,OTHER VIOLATIONS,20
+111,2005,OTHER VIOLATIONS,15
+111,2006,OTHER VIOLATIONS,18
+111,2007,OTHER VIOLATIONS,18
+111,2008,OTHER VIOLATIONS,18
+111,2009,OTHER VIOLATIONS,16
+111,2010,OTHER VIOLATIONS,13
+111,2011,OTHER VIOLATIONS,12
+111,2012,OTHER VIOLATIONS,6
+111,2013,OTHER VIOLATIONS,13
+111,2014,OTHER VIOLATIONS,4
+112,2000,HARASSMENT 2,918
+112,2001,HARASSMENT 2,924
+112,2002,HARASSMENT 2,912
+112,2003,HARASSMENT 2,631
+112,2004,HARASSMENT 2,679
+112,2005,HARASSMENT 2,514
+112,2006,HARASSMENT 2,459
+112,2007,HARASSMENT 2,461
+112,2008,HARASSMENT 2,352
+112,2009,HARASSMENT 2,390
+112,2010,HARASSMENT 2,348
+112,2011,HARASSMENT 2,332
+112,2012,HARASSMENT 2,365
+112,2013,HARASSMENT 2,354
+112,2014,HARASSMENT 2,359
+112,2000,OTHER VIOLATIONS,20
+112,2001,OTHER VIOLATIONS,25
+112,2002,OTHER VIOLATIONS,37
+112,2003,OTHER VIOLATIONS,52
+112,2004,OTHER VIOLATIONS,31
+112,2005,OTHER VIOLATIONS,27
+112,2006,OTHER VIOLATIONS,12
+112,2007,OTHER VIOLATIONS,9
+112,2008,OTHER VIOLATIONS,14
+112,2009,OTHER VIOLATIONS,5
+112,2010,OTHER VIOLATIONS,13
+112,2011,OTHER VIOLATIONS,11
+112,2012,OTHER VIOLATIONS,20
+112,2013,OTHER VIOLATIONS,17
+112,2014,OTHER VIOLATIONS,3
+113,2000,HARASSMENT 2,1187
+113,2001,HARASSMENT 2,1353
+113,2002,HARASSMENT 2,1259
+113,2003,HARASSMENT 2,947
+113,2004,HARASSMENT 2,940
+113,2005,HARASSMENT 2,872
+113,2006,HARASSMENT 2,1035
+113,2007,HARASSMENT 2,1040
+113,2008,HARASSMENT 2,976
+113,2009,HARASSMENT 2,838
+113,2010,HARASSMENT 2,788
+113,2011,HARASSMENT 2,748
+113,2012,HARASSMENT 2,724
+113,2013,HARASSMENT 2,837
+113,2014,HARASSMENT 2,771
+113,2000,OTHER VIOLATIONS,49
+113,2001,OTHER VIOLATIONS,53
+113,2002,OTHER VIOLATIONS,49
+113,2003,OTHER VIOLATIONS,76
+113,2004,OTHER VIOLATIONS,92
+113,2005,OTHER VIOLATIONS,117
+113,2006,OTHER VIOLATIONS,74
+113,2007,OTHER VIOLATIONS,57
+113,2008,OTHER VIOLATIONS,51
+113,2009,OTHER VIOLATIONS,121
+113,2010,OTHER VIOLATIONS,95
+113,2011,OTHER VIOLATIONS,76
+113,2012,OTHER VIOLATIONS,69
+113,2013,OTHER VIOLATIONS,53
+113,2014,OTHER VIOLATIONS,14
+114,2000,HARASSMENT 2,2558
+114,2001,HARASSMENT 2,2559
+114,2002,HARASSMENT 2,2232
+114,2003,HARASSMENT 2,1546
+114,2004,HARASSMENT 2,1542
+114,2005,HARASSMENT 2,1537
+114,2006,HARASSMENT 2,1291
+114,2007,HARASSMENT 2,1144
+114,2008,HARASSMENT 2,1059
+114,2009,HARASSMENT 2,1075
+114,2010,HARASSMENT 2,1054
+114,2011,HARASSMENT 2,1060
+114,2012,HARASSMENT 2,1271
+114,2013,HARASSMENT 2,1294
+114,2014,HARASSMENT 2,1431
+114,2000,OTHER VIOLATIONS,47
+114,2001,OTHER VIOLATIONS,108
+114,2002,OTHER VIOLATIONS,125
+114,2003,OTHER VIOLATIONS,155
+114,2004,OTHER VIOLATIONS,170
+114,2005,OTHER VIOLATIONS,141
+114,2006,OTHER VIOLATIONS,90
+114,2007,OTHER VIOLATIONS,107
+114,2008,OTHER VIOLATIONS,80
+114,2009,OTHER VIOLATIONS,137
+114,2010,OTHER VIOLATIONS,98
+114,2011,OTHER VIOLATIONS,92
+114,2012,OTHER VIOLATIONS,85
+114,2013,OTHER VIOLATIONS,69
+114,2014,OTHER VIOLATIONS,20
+115,2000,HARASSMENT 2,1336
+115,2001,HARASSMENT 2,1401
+115,2002,HARASSMENT 2,1196
+115,2003,HARASSMENT 2,903
+115,2004,HARASSMENT 2,847
+115,2005,HARASSMENT 2,826
+115,2006,HARASSMENT 2,895
+115,2007,HARASSMENT 2,887
+115,2008,HARASSMENT 2,780
+115,2009,HARASSMENT 2,762
+115,2010,HARASSMENT 2,895
+115,2011,HARASSMENT 2,856
+115,2012,HARASSMENT 2,782
+115,2013,HARASSMENT 2,874
+115,2014,HARASSMENT 2,809
+115,2000,OTHER VIOLATIONS,66
+115,2001,OTHER VIOLATIONS,56
+115,2002,OTHER VIOLATIONS,51
+115,2003,OTHER VIOLATIONS,109
+115,2004,OTHER VIOLATIONS,119
+115,2005,OTHER VIOLATIONS,220
+115,2006,OTHER VIOLATIONS,244
+115,2007,OTHER VIOLATIONS,229
+115,2008,OTHER VIOLATIONS,269
+115,2009,OTHER VIOLATIONS,213
+115,2010,OTHER VIOLATIONS,139
+115,2011,OTHER VIOLATIONS,152
+115,2012,OTHER VIOLATIONS,114
+115,2013,OTHER VIOLATIONS,122
+115,2014,OTHER VIOLATIONS,11
+120,2000,HARASSMENT 2,2353
+120,2001,HARASSMENT 2,2288
+120,2002,HARASSMENT 2,1999
+120,2003,HARASSMENT 2,1752
+120,2004,HARASSMENT 2,1996
+120,2005,HARASSMENT 2,2083
+120,2006,HARASSMENT 2,2211
+120,2007,HARASSMENT 2,2162
+120,2008,HARASSMENT 2,1901
+120,2009,HARASSMENT 2,1960
+120,2010,HARASSMENT 2,2067
+120,2011,HARASSMENT 2,1840
+120,2012,HARASSMENT 2,1898
+120,2013,HARASSMENT 2,1780
+120,2014,HARASSMENT 2,1634
+120,2000,OTHER VIOLATIONS,51
+120,2001,OTHER VIOLATIONS,68
+120,2002,OTHER VIOLATIONS,56
+120,2003,OTHER VIOLATIONS,36
+120,2004,OTHER VIOLATIONS,41
+120,2005,OTHER VIOLATIONS,54
+120,2006,OTHER VIOLATIONS,53
+120,2007,OTHER VIOLATIONS,43
+120,2008,OTHER VIOLATIONS,33
+120,2009,OTHER VIOLATIONS,45
+120,2010,OTHER VIOLATIONS,56
+120,2011,OTHER VIOLATIONS,32
+120,2012,OTHER VIOLATIONS,23
+120,2013,OTHER VIOLATIONS,12
+120,2014,OTHER VIOLATIONS,5
+121,2000,HARASSMENT 2,
+121,2001,HARASSMENT 2,
+121,2002,HARASSMENT 2,
+121,2003,HARASSMENT 2,
+121,2004,HARASSMENT 2,
+121,2005,HARASSMENT 2,
+121,2006,HARASSMENT 2,
+121,2007,HARASSMENT 2,
+121,2008,HARASSMENT 2,
+121,2009,HARASSMENT 2,
+121,2010,HARASSMENT 2,
+121,2011,HARASSMENT 2,
+121,2012,HARASSMENT 2,
+121,2013,HARASSMENT 2,601
+121,2014,HARASSMENT 2,1138
+121,2000,OTHER VIOLATIONS,
+121,2001,OTHER VIOLATIONS,
+121,2002,OTHER VIOLATIONS,
+121,2003,OTHER VIOLATIONS,
+121,2004,OTHER VIOLATIONS,
+121,2005,OTHER VIOLATIONS,
+121,2006,OTHER VIOLATIONS,
+121,2007,OTHER VIOLATIONS,
+121,2008,OTHER VIOLATIONS,
+121,2009,OTHER VIOLATIONS,
+121,2010,OTHER VIOLATIONS,
+121,2011,OTHER VIOLATIONS,
+121,2012,OTHER VIOLATIONS,
+121,2013,OTHER VIOLATIONS,7
+121,2014,OTHER VIOLATIONS,6
+122,2000,HARASSMENT 2,2460
+122,2001,HARASSMENT 2,2261
+122,2002,HARASSMENT 2,2185
+122,2003,HARASSMENT 2,1979
+122,2004,HARASSMENT 2,2243
+122,2005,HARASSMENT 2,1949
+122,2006,HARASSMENT 2,2208
+122,2007,HARASSMENT 2,2179
+122,2008,HARASSMENT 2,2042
+122,2009,HARASSMENT 2,1764
+122,2010,HARASSMENT 2,1749
+122,2011,HARASSMENT 2,1583
+122,2012,HARASSMENT 2,1590
+122,2013,HARASSMENT 2,1240
+122,2014,HARASSMENT 2,1077
+122,2000,OTHER VIOLATIONS,26
+122,2001,OTHER VIOLATIONS,27
+122,2002,OTHER VIOLATIONS,15
+122,2003,OTHER VIOLATIONS,21
+122,2004,OTHER VIOLATIONS,43
+122,2005,OTHER VIOLATIONS,24
+122,2006,OTHER VIOLATIONS,49
+122,2007,OTHER VIOLATIONS,36
+122,2008,OTHER VIOLATIONS,23
+122,2009,OTHER VIOLATIONS,19
+122,2010,OTHER VIOLATIONS,22
+122,2011,OTHER VIOLATIONS,12
+122,2012,OTHER VIOLATIONS,7
+122,2013,OTHER VIOLATIONS,7
+122,2014,OTHER VIOLATIONS,6
+123,2000,HARASSMENT 2,781
+123,2001,HARASSMENT 2,925
+123,2002,HARASSMENT 2,813
+123,2003,HARASSMENT 2,813
+123,2004,HARASSMENT 2,828
+123,2005,HARASSMENT 2,783
+123,2006,HARASSMENT 2,816
+123,2007,HARASSMENT 2,782
+123,2008,HARASSMENT 2,727
+123,2009,HARASSMENT 2,687
+123,2010,HARASSMENT 2,634
+123,2011,HARASSMENT 2,615
+123,2012,HARASSMENT 2,595
+123,2013,HARASSMENT 2,494
+123,2014,HARASSMENT 2,531
+123,2000,OTHER VIOLATIONS,6
+123,2001,OTHER VIOLATIONS,15
+123,2002,OTHER VIOLATIONS,7
+123,2003,OTHER VIOLATIONS,5
+123,2004,OTHER VIOLATIONS,6
+123,2005,OTHER VIOLATIONS,8
+123,2006,OTHER VIOLATIONS,13
+123,2007,OTHER VIOLATIONS,7
+123,2008,OTHER VIOLATIONS,16
+123,2009,OTHER VIOLATIONS,9
+123,2010,OTHER VIOLATIONS,16
+123,2011,OTHER VIOLATIONS,9
+123,2012,OTHER VIOLATIONS,6
+123,2013,OTHER VIOLATIONS,5
+123,2014,OTHER VIOLATIONS,2
+DOC,2000,HARASSMENT 2,
+DOC,2001,HARASSMENT 2,
+DOC,2002,HARASSMENT 2,
+DOC,2003,HARASSMENT 2,
+DOC,2004,HARASSMENT 2,
+DOC,2005,HARASSMENT 2,
+DOC,2006,HARASSMENT 2,
+DOC,2007,HARASSMENT 2,
+DOC,2008,HARASSMENT 2,
+DOC,2009,HARASSMENT 2,
+DOC,2010,HARASSMENT 2,
+DOC,2011,HARASSMENT 2,
+DOC,2012,HARASSMENT 2,
+DOC,2013,HARASSMENT 2,
+DOC,2014,HARASSMENT 2,11
+DOC,2000,OTHER VIOLATIONS,
+DOC,2001,OTHER VIOLATIONS,
+DOC,2002,OTHER VIOLATIONS,
+DOC,2003,OTHER VIOLATIONS,
+DOC,2004,OTHER VIOLATIONS,
+DOC,2005,OTHER VIOLATIONS,
+DOC,2006,OTHER VIOLATIONS,
+DOC,2007,OTHER VIOLATIONS,
+DOC,2008,OTHER VIOLATIONS,
+DOC,2009,OTHER VIOLATIONS,
+DOC,2010,OTHER VIOLATIONS,
+DOC,2011,OTHER VIOLATIONS,
+DOC,2012,OTHER VIOLATIONS,
+DOC,2013,OTHER VIOLATIONS,
+DOC,2014,OTHER VIOLATIONS,0
